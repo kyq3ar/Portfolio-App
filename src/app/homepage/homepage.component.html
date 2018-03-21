@@ -1,0 +1,28 @@
+<h1 class = "header">
+  Dan is an interaction<br> 
+  and product designer
+  <span class="dark-blue">@Capital One</span>
+</h1>
+<hr>
+  <ul>
+    <li><a>Portfolio</a></li>
+    <li><a>Résumé</a></li>
+    <li><a>About</a></li>
+  </ul>
+<hr>
+<div class = "page">
+  <div class = "cardlist">
+    <div class = "card" *ngFor = "let card of cards; let i = index" [style.background-color]="'#'+card.bg">
+      <h2 class = "title">
+        <span *ngIf="i==0" [style.color]="'#'+card.highlight">Design</span> 
+        {{card.title}}
+        <span *ngIf="i==1" [style.color]="'#'+card.highlight">Design</span>
+      </h2>
+      <p class = "description">{{card.description}}</p>
+      <p class = "category">{{card.category1}} <br> {{card.category2}}</p>
+    </div>
+  </div>
+  <footer></footer> 
+</div>
+
+

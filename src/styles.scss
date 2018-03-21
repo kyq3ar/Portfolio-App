@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@font-face {
+    font-family: 'BebasNeue';
+    src: url("./assets/BebasNeue-Regular.eot") format('eot'),
+         url("./assets/BebasNeue-Regular.otf") format('otf'),
+         url("./assets/BebasNeue-Regular.ttf") format('ttf'),
+         url("./assets/BebasNeue-Regular.woff") format('woff'),
+         url("./assets/BebasNeue-Regular.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: BebasNeue;
+    letter-spacing: 1.5px;
+    line-height: 35px;
+}

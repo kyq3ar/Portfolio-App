@@ -1,0 +1,44 @@
+[
+    {
+        "type" : "work",
+        "logo" : "../../assets/aplogo.png",
+        "bg" : "273b49",
+        "title" : "should not be a luxury.",
+        "highlight" : "aafcb4",
+        "description" : "How my team helped transform communities by creating access to design.",
+        "category1" : "Service Design &",
+        "category2" : "Helping the Community"
+    },
+    {
+        "type" : "work",
+        "logo" : "../../assets/c1logo.png",
+        "bg" : "273b49",
+        "title" : "Paving the road for ",
+        "highlight" : "1691d7",
+        "description" : "How starting small allowed us to create large enough impacts to move mountains.",
+        "category1" : "Product Design &", 
+        "category2" : "A/B Testing"
+    },
+    {
+        "type" : "work",
+        "logo" : "../../assets/c1logo.png",
+        "bg" : "273b49",
+        "title" : "Title Template Here",
+        "highlight" : "1691d7",
+        "description" : "Text limited to 3 lines",
+        "category" : "Product Design &", 
+        "category2" : "Collaborating"
+    },
+    {
+        "type" : "school",
+        "bg" : "c4d1e9",
+        "title" : "Utilizing patient's health data",
+        "description" : "Undergraduate project"
+    },
+    {
+        "type" : "school",
+        "bg" : "e4b0b4",
+        "title" : "Tag and share your stuff",
+        "description" : "Undergraduate project"
+    }
+]
