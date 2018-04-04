@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Http, Headers, RequestOptions } from "@angular/http";
 import 'rxjs/add/operator/map'
+import { Router} from '@angular/router'
 
 @Component({
   selector: 'homepage',
@@ -10,7 +11,10 @@ import 'rxjs/add/operator/map'
 export class HomepageComponent implements OnInit {
 
   public cards;
-  constructor(private http: Http) { 
+  public router: Router;
+
+  constructor(private http: Http, private r: Router) { 
+    this.router = r;
     this.http = http;
   }
 
@@ -22,6 +26,10 @@ export class HomepageComponent implements OnInit {
           this.cards = x;
         }
     });
+  }
+
+  onClick(card) {
+    this.router.navigate(['/project', card.id])
   }
 
 }

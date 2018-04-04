@@ -24,7 +24,7 @@ ul {
     opacity: 0.5;
     list-style-type: none;
     margin: 0;
-    margin-left: 14%;
+    margin-left: 15%;
     padding: 0;
     overflow: hidden;
     color: #011728;
@@ -44,21 +44,24 @@ ul {
     }
 }
 .page {
-    position: relative;
-    width: 100%;
     .cardlist {
         margin: 0% 8% 0% 15%;
         color: #fff;
-        position: absolute;
         .card {
             float: left;
-            width: 24%;
+            width: 23%;
             margin-right: 4%;
-            margin-top: 4%;
+            margin-bottom: 4%;
             padding: 2%;
             height: 480px;
             position: relative;
             display: block;
+            background-size: 100%;
+            .logo {
+                width:auto;
+                max-height:7%;
+                margin-top: 7%;
+            }
             .title {
                 font-size: 2em;
                 height: 70px;
@@ -71,7 +74,14 @@ ul {
                 letter-spacing: normal;
                 font-weight: 300;
             }
-            
+            .description2 {
+                font-family: 'Open Sans', sans-serif;
+                line-height: normal;
+                letter-spacing: normal;
+                font-size: .85em;
+                margin-top: -7%;
+                font-weight: 300;
+            }
             .category {
                 font-family: 'Open Sans', sans-serif;
                 line-height: 1.43;
@@ -86,12 +96,3 @@ ul {
         }
     }
 }
-
-
-
-
-
-
-
-
-
