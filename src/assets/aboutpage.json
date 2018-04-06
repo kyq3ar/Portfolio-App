@@ -11,14 +11,13 @@
             "title" : "Hi, I'm Dan.",
             "information" : "I recently graduated from Rochester Institute of Technology and joined Capital One immediately after. As a designer, my skillset lies in product design. I am a craftsman at heart, and I strive for strong execution.",
             "information2" : "However, it is the process that informs my decisions.  As I continue to grow as a designer, I also continue to care more about what design can do to positively impact the lives around us. My current job at Capital One allows me to bring humanity into banking. Last year, I travelled to Amsterdam to attend a conference focused on using design in order to combat climate change.",
-            "image" : ""
+            "image" : "/assets/about/conference.png"
         },
         {
-            "keys" : ["title", "information"],
+            "keys" : ["title", "information", "image2"],
             "title" : "I caught a travel bug.",
             "information" : "We live in such a huge world (yet, it’s also so small at the same time). Trying new foods and meeting new people gives me so much influence in my designs. Amsterdam showed me how to navigate a city using a bicycle. London provided me new insights on how people viewed credit cards. Prague showed me what real beer taste like.",
-            "image" : "",
-            "image2" : ""
+            "image2" : "/assets/about/travel.png"
         },
         {
             "keys" : ["title", "information", "information2", "information3", "information4"],

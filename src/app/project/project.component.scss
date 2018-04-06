@@ -1,50 +1,66 @@
 .body {
-    margin: 0 11%;
+    max-width: 1124px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header {
     background-color: #181d20;
-    padding: 2% 10%;
     color: #fff;
-    padding-top: 10%;
     .logo {
-        width : auto;
-        height:40px;
-        margin-top: 7%;
-        margin-bottom: -7%;
+        width : 122px;
+        height: auto;
+        margin-top: 140px;
+        
     }
     .title {
-        font-size: 3em;
+        max-width: 780px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: regular;
+        font-size: 48px;
         letter-spacing: 1.5px;
         line-height: 51px;
+
     }
     .description {
         font-family: 'Open Sans', sans-serif;
-        font-weight: 300;
-        line-height: 1.44;
+        font-weight: 100;
+        line-height: 26px;
         letter-spacing: normal;
-        font-size: 1em;
+        font-size: 18px;
     }
 }
 .section {
-    line-height: normal;
-    font-family: 'Open Sans', sans-serif;
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Calluna-Light', sans-serif;
+    color: #363636;
+    font-size: 20px;
+    line-height: 30px;
     padding: 2% 10% 4%;
+
     .title {
+        font-size: 21px;
         font-weight: bold;
     }
     .description {
-        font-family: Calluna;
+        font-family: 'Open Sans';
         line-height: 1.5px;
+        font-size: 50px;
     }
     .imageTitle {
-        font-size: .7em;
-        font-weight: bold;
+        font-size: 14px;
+        font-weight: semibold;
         letter-spacing: normal;
+        color: #5c5c5c;
     }
     .imageDesc {
         font-size: .7em;
-        font-weight: normal;
+        font-weight: light;
         letter-spacing: normal;
     }
     img {

@@ -13,6 +13,7 @@
         "category2" : "Helping the Community",
         "body" : [
             {
+
                 "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "information2", "information3"],
                 "title" : "My Role", 
                 "information" : "Whenever I think about my career as a designer, I always recall this episode of The Simpsons I saw while growing up. It’s 1999 and there is widespread chaos due to Y2K. The Simpsons finds a letter about a rocket that will be sending humanity’s “best and brightest” to preserve human civilization on Mars. Lisa and Marge gets onto the ship but Homer and Bart are left behind. In a desperate attempt to flee the Earth, they board an unguarded rocketship that was actually headed towards the sun.",
@@ -30,13 +31,21 @@
                 "bg": "f5f5f5"
             }, 
             {
-                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2"],
                 "title" : "Understanding the Client's Needs",
                 "information" : "Start Small Think Big reached out to Adaptive Path asking our design team to improve their customer in-take process.",
                 "information2" : "We scheduled a phone call with the client to learn about their request, along with asking them to provide more information on their existing process. We learned that the existing process was a series of long and tedious forms before they are provided with any legal, financial, or marketing consultancy. It was people heavy, reactionary, and lacked an integrated process.",
-                "image" : "/assets/adaptivepath/SSTB.png",
+                "image" : "/assets/adaptivepath/draft.png",
                 "imageTitle" : "Start Small Think Big (Homepage)",
-                "imageDesc" : "The agency provided legal, financial, and marketing consultancy to moderate income neighborhood entrepreneurs. They have helped people start bakeries and other small businesses."
+                "imageDesc" : "The agency provided legal, financial, and marketing consultancy to moderate income neighborhood entrepreneurs. They have helped people start bakeries and other small businesses.",
+
+                "image2" : "/assets/adaptivepath/SSTB.png",
+                "imageTitle2" : "Service Blueprint",
+                "imageDesc2" : "Based on the initial conversation with the client, we mapped out what we knew of the full experience. This included client, associate, and backend facing actions. We also marked it with follow up questions for our on-site visit."
+                
+
+
+                
             },
             {
                 "keys" : ["title", "information"],
