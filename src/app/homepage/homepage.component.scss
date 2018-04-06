@@ -4,7 +4,7 @@ body {
 }
 .header {
     max-width: 1124px;
-    margin: 8% auto 0% auto;
+    margin: 110px auto 0% auto;
     line-height: 51px;
 
     font-size: 48px;
@@ -54,30 +54,40 @@ ul {
 .page {
     .cardlist {
         max-width: 1124px;
-        margin: 0% auto 0% auto;
+        margin-right: auto;
+        margin-left: auto;
 
         color: #fff;
         .card {
             float: left;
-            max-width: 250px;
-            margin-right: 40px;
-            margin-bottom: 30px;
-            padding: 22px;
-            height: 480px;
+            width: 260px;
+            margin: 10px;
+            padding: 20px;
+            height: 450px;
             position: relative;
             display: block;
             background-size: 100%;
+
+
+            @media only screen and (max-width: 600px) and (min-width: 400px) {
+
+            height: 350px;
+            margin-right: auto;
+            }
+
             .logo {
-                width:auto;
-                max-height:7%;
+                width: auto;
+                height:38px;
                 margin-top: 7%;
             }
+
+
             .title {
-                font-family: 'Bebas Neue';
+                font-weight: light;
+
                 font-size: 30px;
                 letter-spacing: 1.5px;
                 height: 70px;
-                font-weight: normal;
             }
             
             .description {

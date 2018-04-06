@@ -5,10 +5,12 @@ hr {
 }
 
 ul {
+
     letter-spacing: 5px;
     opacity: 0.5;
     list-style-type: none;
-    margin: 1% 10% 0 10%;
+    max-width: 1124px;
+    margin: 20px auto 0 auto;
     padding: 0;
     overflow: hidden;
     color: #011728;
