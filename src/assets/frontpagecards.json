@@ -15,26 +15,35 @@
             {
 
                 "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "information2", "information3"],
-                "title" : "My Role", 
+                "title" : "Wanting to do good.", 
                 "information" : "Whenever I think about my career as a designer, I always recall this episode of The Simpsons I saw while growing up. It’s 1999 and there is widespread chaos due to Y2K. The Simpsons finds a letter about a rocket that will be sending humanity’s “best and brightest” to preserve human civilization on Mars. Lisa and Marge gets onto the ship but Homer and Bart are left behind. In a desperate attempt to flee the Earth, they board an unguarded rocketship that was actually headed towards the sun.",
                 "image" : "assets/adaptivepath/Simpsons.png",
                 "imageTitle" : "Life's a Glitch, Then You Die",
                 "imageDesc" : "Waiting on line to board the ship included several people such as Bill Gates, Jimmy Carter, Stephen Hawking, Michael Jordan and Michelle Kwan.",
-                "information2" : "One day, my manager reached out to explained to me about a role on this new initiative within Adaptive Path dedicated to transforming communities by design.",
-                "information3" : "Before my manager could finish, I recalled that same episode and telling myself I better make it to that ship to Mars. This was my chance at improving society through design and before I even fully understood the scope of the project, I had became the visual designer for Adaptive Path’s Design in Residence program."
+                "information2" : "While at Capital One, I was reached on a new initiative within Adaptive Path to start a new program in New York City called Design in Residence. The program was about creating access to design for our communities.",
+                "information3" : "I recalled that same episode and telling myself that this was my opportunity to do good. This was my opportunity to make it on that rocketship to Mars. I became part of the piloting team for the Design in Residence program."
             },
             {
                 "keys" : ["title", "information", "information2"],
                 "title" : "Design should not be a luxury",
-                "information" : "Over the last decade, design had manage to squeeze itself to the forefront of organizations and proved it’s value at the table. However, it is still an expensive piece of the process and having a functional product is still more widely valued than a well designed product.",
-                "information2" : "Design in Residence is a program my team and I kicked off to provide UX consultancy to local businesses and organizations that would otherwise not afford it. Adaptive Path set out to reach Start Small Think Big, a local non-profit agency that provides legal, financial, and marketing services to moderate income entrepreneurs.",
+                "information" : "After years of fighting, design finally got a seat at the table. However, design is still a luxury and not everyone has access to design. Design is expensive.",
+                "information2" : "Adaptive Path’s Design in Residency hope to make design thinking more accessible to our communities.",
                 "bg": "f5f5f5"
             }, 
+
+            {
+                "keys" : ["image", "title", "information", "image2"],
+                "image" : "assets/adaptivepath/Cities.svg",
+                "title" : "The Design in Residence Team",
+                "information" : "The team consisted of various designers, a project manager, and a design manager based in both New York and San Fancisco. My role was initially as a visual designer, but it eventually evolved into that of a service designer as we defined the problem and assessed the client’s need.",
+                "image2" : "assets/adaptivepath/Time.svg"
+            }, 
+
             {
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2"],
-                "title" : "Understanding the Client's Needs",
-                "information" : "Start Small Think Big reached out to Adaptive Path asking our design team to improve their customer in-take process.",
-                "information2" : "We scheduled a phone call with the client to learn about their request, along with asking them to provide more information on their existing process. We learned that the existing process was a series of long and tedious forms before they are provided with any legal, financial, or marketing consultancy. It was people heavy, reactionary, and lacked an integrated process.",
+                "title" : "Assessing the Client's Needs",
+                "information" : "Start Small Think Big is a legal, financial, and marketing consultancy for local mid-income level entrepreneurs that had reached out to Adaptive Path for design consultancy of their online application. ",
+                "information2" : "My role at Capital One allowed me to quickly understand that the redesign of a successful online application was more than just pixel pushing. As a team, we began evaluated their existing process, and looked at all their existing tools and processes of onboarding a client.",
                 "image" : "/assets/adaptivepath/draft.png",
                 "imageTitle" : "Start Small Think Big (Homepage)",
                 "imageDesc" : "The agency provided legal, financial, and marketing consultancy to moderate income neighborhood entrepreneurs. They have helped people start bakeries and other small businesses.",
@@ -48,14 +57,16 @@
                 
             },
             {
-                "keys" : ["title", "information"],
-                "title" : "The Design in Residence Team",
-                "information" : "We were from New York and San Francisco. We stretched across different teams within the company and we were skilled in different disciplines of design. I worked along Natalie Khun, the lead designer, to provide any visuals and UI needs throughout the project. However, my role quickly changed into that of a service designer as we began to identify the problem."
+                "keys" : ["title", "information", "information2", "image"],
+                "title" : "Identifying the Larger Problem",
+                "information" : "We had arranged a phone call with the client to learn more about their process and through the phone call, we worked together to create a draft service blueprint to highlight the entire onboarding process of their service. Through blueprinting their process, we learned that the onboarding process consisted of a series of long and tedious forms, while being people heavy, reactionary, and in general – lacked an integrated process.",
+                "information2" : "While evaluating our time constraint, we also quickly concluded that there would be no tangible product to hand off to our client (at least not a complete product). We had no developers and we would not be able to redesign their intake form as they had requested. However, rather than delivering an unfinished product, we catered the solution of empowering our client by spending the 40 hours teaching them design thinking. Through teaching design methodologies, they’ll be able to solve pain points long after we leave.",
+                "image" : "/assets/adaptivepath/Kickoff.svg"
+
             },
             {
-                "keys" : ["title", "information", "image", "imageDesc", "image2", "imageDesc2", "image3", "imageDesc3"],
-                "title" : "Identifying the Larger Problem",
-                "information" : "With only a total of 40 hours and no developers, we understood right away that there would be no tangible solution to hand off to our client (at least not a digital product). We would not be able to redesign their intake form in the time available.  Rather than delivering an unfinished product, we decided that it was better use of our time to help Start Small Think Big figure out their problem, while teaching them design thinking and methodologies to solve it themselves. This would not only help them solve their client intake process, but any additional pain points they may find in the future.",
+                "keys" : ["image", "image2", "image3"],
+                
                 "image" : "assets/adaptivepath/DesignKit.png",
                 "imageDesc" : "We prepared a notetaking kit to bring with us to Start Small Think Big’s office :)",
                 "image2" : "assets/adaptivepath/WeWork.png",
@@ -64,11 +75,12 @@
                 "imageDesc3" : "We brought in a physical version of the service blueprint to walk over with Start Small Think Big to make sure we captured all the key components."
             },
             {
-                "keys" : ["title", "information", "image", "image2", "imageTitle", "imageDesc"],
+                "keys" : ["title", "information", "image", "image2", "image3", "imageTitle", "imageDesc"],
                 "title" : "Problem Points",
-                "information" : "Through a combination of reviewing their intake process, tools that they used (such as Salesforce and Tableau), and with an in person study of their daily work day at the office, we were able to identify a few key problems:",
-                "image" : "assets/adaptivepath/Notes1.png",
-                "image2" : "assets/adaptivepath/Notes2.png",
+                "information" : "After we visited their office, sat in through a live client meeting, along with a combination of reviewing their intake process, tools that they used (such as Salesforce and Tableau), and with a study of their daily work day at the office, we were able to identify a few key problems:",
+                "image" : "assets/adaptivepath/Problems.svg",
+                "image2" : "assets/adaptivepath/Notes1.png",
+                "image3" : "assets/adaptivepath/Notes2.png",
                 "imageTitle" : "A third perspective of their intake process.",
                 "imageDesc" : "Understanding the existing process was key to a redesign. We mapped out tools they used on the backend, alongside the client facing process starting from the application to the WeWork space. We wanted to capture all of the painpoints."
             },

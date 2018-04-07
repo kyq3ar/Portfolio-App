@@ -10,14 +10,15 @@
 
 
     .logo {
-
+        // background-color: #fff;
         width : 122px;
         height: auto;
         margin-top: 140px;
-        margin-left: 172px;
+        margin-bottom: 12px;
         
     }
     .title {
+        // background-color: #222354;
         max-width: 780px;
         margin-left: auto;
         margin-right: auto;
@@ -39,7 +40,7 @@
         max-width: 780px;
         margin: auto;
         padding-bottom: 40px;
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Noto Sans', sans-serif;
         font-weight: 100;
         line-height: 26px;
         letter-spacing: normal;
@@ -51,42 +52,48 @@
             }
     }
 }
+
+
+
 .section {
     max-width: 780px;
+    margin: 60px auto 0 auto;
 
-    @media only screen and (max-width: 600px) and (min-width: 400px) {
-    max-width: 350px;
-            }
+    // background-color: #999;
+    
 
-    margin-left: auto;
-    margin-right: auto;
-
-    font-family: 'Calluna-Light', sans-serif;
+    font-family: 'capitolina', serif;
+    font-style: normal;
+    font-weight: 300;
     color: #444;
     font-size: 20px;
-    line-height: 32px;
 
     .title {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 21px;
-        font-weight: bold;
+        // background-color: #999;
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: Bold;
+        font-size: 30px;
+        letter-spacing: 2px;
+        color: #9B9E9F;
     }
+
+
     .description {
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Noto Sans', sans-serif;
         line-height: 1.5px;
         font-size: 50px;
+        margin-bottom: 20px;
     }
     .imageTitle {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 14px;
-        font-weight: semibold;
+        font-family: 'Rucksack', sans-serif;
+        font-size: 16px;
+        font-weight: Book;
         letter-spacing: normal;
         color: #5c5c5c;
     }
     .imageDesc {
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Rucksack', sans-serif;
         font-size: 14px;
-        font-weight: light;
         color: #5c5c5c;
         letter-spacing: normal;
     }

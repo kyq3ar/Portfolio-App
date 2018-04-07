@@ -1,10 +1,12 @@
 <header></header>
 <div class = "body">
   <div class = "header">
-      <img *ngIf="card.logo" class = "logo" [src] ="card.logo">
+      
       <h2 class = "title">
+          <img *ngIf="card.logo" class = "logo" [src] ="card.logo"><br>
           <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Design</span>
-          <span *ngIf="card.id==4" [style.color]="'#'+card.highlight">Ruksak: </span>
+          <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
+          <span *ngIf="card.id==4" [style.color]="'#'+card.highlight" >Ruksak: </span>
           <br>
           <span *ngIf="card.id==5" [style.color]="'#'+card.highlight">Infirmary: </span>
           {{card.detailtitle}}
@@ -15,7 +17,7 @@
       <p class = "description">{{card.detaildescription}}</p>
   </div>
   <div class = "sections">
-    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg">
+    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg" >
       <div class = "section2" *ngIf = "sectionLocked(section.locked)">
         <div *ngFor = "let key of section.keys" [ngClass] = "getKey(key)">
           <br>

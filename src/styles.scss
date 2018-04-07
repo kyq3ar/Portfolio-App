@@ -6,16 +6,34 @@
 }
 
 @font-face {
-    font-family: 'Calluna';
+    font-family: 'capitolina', serif;
+    font-style: normal;
     src: url("https://use.typekit.net/tiv2ytf.css"),
 
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url("https://fonts.googleapis.com/css?family=Open+Sans"),
+    font-family: 'rucksack', sans-serif;
+    font-style: normal;
+    src: url("https://use.typekit.net/tiv2ytf.css"),
 
 }
+
+
+@font-face {
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    src: url("https://use.typekit.net/tiv2ytf.css"),
+
+}
+
+@font-face {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    src: url("https://fonts.googleapis.com/css?family=Noto+Sans"),
+
+}
+
 
 body {
     font-family: Bebas Neue;
