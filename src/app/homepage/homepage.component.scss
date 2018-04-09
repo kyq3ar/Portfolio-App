@@ -6,19 +6,27 @@ body {
 }
 .header {
     max-width: 1124px;
-    margin: 200px auto 100px auto;
-    line-height: 51px;
+    margin: 200px auto 30px auto;
+    line-height: 60px;
 
     font-size: 60px;
-    color: #011728;
+    font-weight: 300;
+    color: #273B49;
     letter-spacing: 1.5px;
+
+
+    .name {
+        color: #011728;
+        font-weight: 400;
+    }
 
     .dark-blue {
         color: #0d74af;
     }
+
 }
 hr {
-    margin: 30px -20px 20px;
+    margin: 30px 0px 30px;
     opacity: 0.1;
     background-color: #181d20;
 }
@@ -32,15 +40,15 @@ ul {
 
     font-family: 'Bebas Neue';
     font-size: 22px;
-    font-weight: Regular;
+    font-weight: 300;
     letter-spacing: 5px;
-    color: #011728;
+    color: #687680;
     li {
         float: left;
     }
     li a {
         display: block;
-        color: #011728;
+        color: #687680;
         text-align: center;
         padding-left: 0;
         padding-right: 60px;
@@ -48,8 +56,8 @@ ul {
         opacity: 1;
     }
     li:hover {
-        opacity: 0.5;
-        cursor: pointer;
+        font-weight: 600;
+        opacity: 1;
         
     }
 }
@@ -61,6 +69,8 @@ ul {
         margin-right: auto;
         margin-left: auto;
         color: #fff;
+        padding-top: 30px;
+
 
 
         .card {
@@ -92,29 +102,31 @@ ul {
 
 
             .title {
-                font-weight: light;
-                font-size: 30px;
-                letter-spacing: 1.5px;
+                font-weight: 400;
+                font-size: 32px;
+                letter-spacing: 1.8px;
                 height: 70px;
             }
             
             .description {
-                font-family: 'Noto Sans', sans-serif;
-                font-weight: Regular;
+                font-family: 'Open Sans', sans-serif;
+                font-weight: 100;
                 line-height: 20px;
-                font-size: 14px;
+                font-size: 16px;
+                letter-spacing: .2px;
 
             }
             .description2 {
-                font-family: 'Noto Sans', sans-serif;
+                font-family: 'Open Sans', sans-serif;
                 line-height: normal;
                 letter-spacing: normal;
                 font-size: 16px;
                 margin-top: 2px;
                 font-weight: 300;
+
             }
             .category {
-                font-family: 'Noto Sans', sans-serif;
+                font-family: 'Open Sans', sans-serif;
                 line-height: 1.43;
                 letter-spacing: normal;
                 position: absolute;

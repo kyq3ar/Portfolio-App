@@ -24,10 +24,9 @@
                 "information3" : "I recalled that same episode and telling myself that this was my opportunity to do good. This was my opportunity to make it on that rocketship to Mars. I became part of the piloting team for the Design in Residence program."
             },
             {
-                "keys" : ["title", "information", "information2"],
+                "keys" : ["title", "information"],
                 "title" : "Design should not be a luxury",
-                "information" : "After years of fighting, design finally got a seat at the table. However, design is still a luxury and not everyone has access to design. Design is expensive.",
-                "information2" : "Adaptive Path’s Design in Residency hope to make design thinking more accessible to our communities.",
+                "information" : "After years of fighting, design finally got a seat at the table. However, design is still a luxury and not everyone has access to design. Design is expensive. Adaptive Path’s Design in Residency hope to make design thinking more accessible to our communities.",
                 "bg": "f5f5f5"
             }, 
 
@@ -57,11 +56,12 @@
                 
             },
             {
-                "keys" : ["title", "information", "information2", "image"],
+                "keys" : ["title", "information", "information2", "image", "image2"],
                 "title" : "Identifying the Larger Problem",
                 "information" : "We had arranged a phone call with the client to learn more about their process and through the phone call, we worked together to create a draft service blueprint to highlight the entire onboarding process of their service. Through blueprinting their process, we learned that the onboarding process consisted of a series of long and tedious forms, while being people heavy, reactionary, and in general – lacked an integrated process.",
                 "information2" : "While evaluating our time constraint, we also quickly concluded that there would be no tangible product to hand off to our client (at least not a complete product). We had no developers and we would not be able to redesign their intake form as they had requested. However, rather than delivering an unfinished product, we catered the solution of empowering our client by spending the 40 hours teaching them design thinking. Through teaching design methodologies, they’ll be able to solve pain points long after we leave.",
-                "image" : "/assets/adaptivepath/Kickoff.svg"
+                "image" : "/assets/adaptivepath/Kickoff.svg",
+                "image2" : "/assets/adaptivepath/Wework.svg"
 
             },
             {
@@ -87,34 +87,34 @@
             {
                 "keys" : ["title", "information", "information2", "image"],
                 "title" : "Service Blueprinting and Teaching Design",
-                "information" : "Reminding ourselves that we had a hard stop at 40 hours, we wanted to prepare a design jam with the intent of creating access to design for the client. I worked alongside another design to build out the service blueprint while other designers worked on the presentation.",
-                "information2" : "The service blueprint highlighted client and associate facing actions, along with the location of each action in the backend. This provided the client with a full view of their process, enabling them to point out pain points.",
+                "information" : "With only 40 hours, we couldn’t give our client the solution they had expected. However, we would be able to host a design jam and teach our client how to use design methodologies. Although we couldn’t give them a finished product, we still wanted to provide some sort of tangible product. I worked alongside another design to hash out a 36 x 100 inch service blueprint that they can place onto the wall. This way they can get a full visual of their process.",
+                "information2" : "Rather than using our time to hand over an unfinished product, we to put together a design jam to allow our client to get first hand experience.",
                 "image" : "assets/adaptivepath/Blueprint.png"
             }, 
             {
                 "keys" : ["title", "information", "information2", "image", "image2", "imageTitle", "imageDesc"],
-                "title" : "Design Jam",
-                "information" : "We set up the room with a giant print out of the service blueprint, with the intention for the client to scribble all over it. To get the client’s honest thoughts and opinions, we got them comfortable in the room by encouraging shameless indulging in KitKats and gummy bears. We initiated with an introduction, along with warm up stretches and casual conversations.",
-                "information2" : "With the positive atmosphere set up, we kicked off the presentation.",
+                "title" : "Kitkats, gummy bears, & Design Jam",
+                "information" : "We invited the Start Small Think Big team to our Union Square NYC office, while one of the Adaptive Path’s Design in Residence team members flew in from San Francisco. By inviting our client to our design space, we would allow them to learn what it was like to work as a designer.",
+                "information2" : "We set up the room to build an inviting atmosphere, adding in snacks and drinks. We got them to do silly exercises in order to ease up the tension, and then we jumped right into the design exercises.",
                 "image" : "assets/adaptivepath/Jam1.png",
                 "image2" : "assets/adaptivepath/Jam2.png",
                 "imageTitle" : "Encouraging Open Dialogues",
-                "imageDesc" : "During the session, we learned that the representatives of the financial, legal, and marketing services were not talking to each other about their painpoints. By having them together in a room, they were able to express what was important and crucial in their process to each other. Building a comfortable atmosphere was key to our success."
+                "imageDesc" : "We wanted the team to have open dialogues. By breaking the tension and encouraging them to write on walls, put up notes, and create a healthy, collaborative environment, we got to see truly what each of the team members were thinking."
             },
             {
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "title" : "Conclusion",
-                "information" : "The design jam wrapped up the remaining time we were allowed to spend on this project. Adaptive Path followed up with Start Small Think Big and we had very positive feedback from their team. We were able to successfully teach legal, financial, and marketing consultants design thinking methodologies. By using incorporating design thinking into their process, they would be able to better serve their clients, and better serve our communities.",
+                "information" : "The design jam allowed our client’s team to learn to resolve problems through not only design thinking methodologies, but also open communication as well. Each individual were able to openly express their pain points while they worked together to discuss potential solutions. They brought back what they learned and showed us they had hung the service blueprint in their office.",
                 "image" : "/assets/adaptivepath/BlueprintPrintout.png",
                 "imageDesc" : "We learned they had placed the service blueprint on their wall and it has encouraged their team to openly discuss pain points as they work together to solve their intake process."
             },
             {
-                "keys" : ["title", "information", "information2", "information3"],
+                "keys" : ["title", "information", "information2"],
                 "title" : "Epilogue",
                 "bg" : "f5f5f5",
-                "information" : "Capital One is a large company, and we don’t often get the chance to work with designers across various teams. Design in Residence allowed me to meet other designers who would work outside my discipline (product design) and allowed me to broaden my skillset.",
-                "information2" : "I became the poster child of the program, and eventually promoting the program across the company and encouraging the program to expand beyond just design, but to developers and product managers as well.",
-                "information3" : "Not only did this project allowed me to expand my knowledge as a designer, it also gave me the opportunity to do good for our communities. Design isn’t just about making beautiful and functional products, it’s a methodology that can be applied to solve problems."
+                "information" : "Although we didn’t necessarily create a tangible product, we hit our goal of creating access to design within our local communities. If anything, we made it even more accessible by teaching it. I was able to learn more about the positive impacts design have while also enabling postive impact in our communities. Design isn’t just about making beautiful and functional products, it’s a methodology that can be applied to solve problems.",
+                "information2" : "Capital One is a large company, and we don’t often get the chance to work with designers across various teams. Design in Residence allowed me to meet other designers who would work outside my discipline, while broadening my skillset. My team eventually made me the poster child of the program. We began promoting the program through talks in order to expand beyond design, and to developers and product managers as well."
+                
             }
         ]
     },
@@ -134,24 +134,24 @@
         "category2" : "A/B Testing",
         "body" : [
             {
-                "keys" : ["title", "information", "information2"],
-                "title" : "My Role",
-                "information" : "As a product designer at Capital One, I owned bank account opening experiences under the Customer Account Management team. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application.",
-                "information2" : "I work alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and our native apps."
+                "keys" : ["title", "information", "information2", "image"],
+                "title" : "Product Designer at Capital One",
+                "information" : "As a product designer at Capital One, I had lead the designs for account opening for Consumer Bank. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application.",
+                "information2" : "I work alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and our native apps.",
+                "image" : "/assets/pavingpaths/Scope.svg"
             },
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
-                "title" : "The Challenge",
+                "title" : "Challege – designing for a Bank",
                 "information" : "The account opening process touches millions of customers and act as a door to Capital One. Any changes to the entrance can be risky and affect various lanes across the organization.",
                 "information2" : "How do you design and represent the ideal customer experience, while capturing sensitive information, preventing fraudsters, abiding to legal and compliance, and navigating around a secured and complex tech infrastructure?" 
-
             
             },
          
             {
                 "keys" : ["warning", "input", "unlock"],
-                "warning" : "Due to the nature of this work, the content is password is protected. Please contact me if you are interested in viewing this case study.",
+                "warning" : "Due to the sensitive nature of this work, the content and process needs to be protected. Please contact me if you are interested in viewing this case study.",
                 "input" : "enter password",
                 "unlock" : "unlock"
             },
@@ -393,11 +393,12 @@
                 "information" : "If there was any project that defined a significant catalyst in my career, it was this one. Ruksak was a project I worked on while studying design at RIT. I had just completed an internship at a digital agency that helped shape a foundation in learning to understand the user, refining usability flows, and creating wireframes. However, I was severely lacking in good execution.",
                 "information2" : "Ruksak was one of the projects that taught me user interface design, how to utilize photography, and designing with Material Design in mind. The assignment was to ideate on a photosharing app, and I chose to design a service that allowed users to find inspiration from those around them."
             },
+
             {
                 "keys" : ["title", "information", "image", "image2"],
-                "title" : "Brief",
+                "title" : "Project Brief",
                 "information" : "Share and be inspired. There's already a ton of blogs out there to list out everything people carry with them on a daily basis, but there isn't a very quick way of doing it. RukSak lets users quickly snap pictures of items, tag them, post, and share.",
-                "image" : "/assets/ruksak/Scope.png",
+                "image" : "/assets/ruksak/Scope.svg",
                 "image2" : "/assets/ruksak/Visuals.png"
             },
             {
@@ -409,9 +410,16 @@
 
             {
                 "keys" : ["title", "information", "image"],
+                "title" : "Exploring a Need",
+                "information" : "Ruksak was built with the ease of use in mind. Being able to quickly upload an image, and tapping an item to tag what it is would make way for an easy learning curve. Users can add additional information regarding the item, including where to buy.",
+                "image" : "/assets/ruksak/Sketches.png"
+            },
+
+            {
+                "keys" : ["title", "information"],
                 "title" : "Identifying a Problem",
-                "information" : "Social media is saturated with various blogs from users that post about the items that they have. Most users use existing platforms such as Instagram and Tumblr to list out what they carry with them on a daily basis. However, there was no niche app dedicated to them particular usage of social media.",
-                "image" : "/assets/ruksak/Personas.png"
+                "information" : "People turn to Pinterest, or Instagram, or various small blogs to look for tools and daily carrys on platforms that were not built around to serve that purpose. This application allows it’s users to show off what they have, along with finding new items, and purchasing the item."
+                
             },
 
 
@@ -437,8 +445,14 @@
                 "keys" : ["title", "information", "image", "image2"],
                 "title" : "Identifying Pain Points & Iterating",
                 "information" : "After building this application for the course of the class, I heuristically tested the functions and the UI further. Building on the feedback that I received, I learned one of the core functionalities of my application – uploading individual items saw significant pain points.",
-                "image" : "/assets/ruksak/Moodboard.png",
-                "image2" : "/assets/ruksak/Original.png"           
+                "image" : "/assets/ruksak/Painpoints.svg",
+                "image2" : "/assets/ruksak/VisualDesigns.png"           
+            },
+            {
+                "keys" : ["title", "information", "information2"],
+                "title" : "Epilogue",
+                "information" : "This project taught me early on that product design doesn’t end when it ships. It truly begins after the product is launched because then you get user feedback from analytics. With the time constraint of 6 months, along with the lack of resources, this project taught me to use heuristic reviews, guerilla testing, and identifying qualitative feedback to improve upon my designs. ",
+                "information2" : "I last iterated on this project three years ago, and have learned there is so much more than can be done. One such idea is prioritizing an e-commerce aspect into the product (without sacrificing the user experience, of course). By incorporating a friendly shopping experience, I can create monetary value to my designs. "
             }
 
 
@@ -506,6 +520,8 @@
                 "information" : "Although I didn’t realize it at the time, this project taught me the true value of design. Good designs aren’t just beautiful and easy to use interfaces (as I thought it was during my early years of college). Good designs are solutions to problems, and when solutions are well executed, they create beauty.",
                 "information2" : "  I learned to study how doctors and patients interacted with one another while waiting at the emergency room. Today I’m studying how customers interact with bankers at Capital One branches and Cafes to improve the digital account opening experience. Both experiences are proving that the full experience isn’t always just online, and that digital experiences should be created to enhance the physical experience."
             }
+
+            
         ]
         
     }
