@@ -128,16 +128,16 @@
         "detailtitle" : "Paving the road for ",
         "detailtitle2" : "in account opening",
         "highlight" : "1691d7",
-        "frontdescription" : "How starting small allowed us to create large enough impacts to move mountains.",
-        "detaildescription" : "How starting small allowed us to create large enough impacts to move mountains.",
+        "frontdescription" : "How we started one step at a time to progressively improve account openings.",
+        "detaildescription" : "How we started one step at a time to progressively improve account openings.",
         "category1" : "Product Design &", 
         "category2" : "A/B Testing",
         "body" : [
             {
                 "keys" : ["title", "information", "information2", "image"],
                 "title" : "Product Designer at Capital One",
-                "information" : "As a product designer at Capital One, I had lead the designs for account opening for Consumer Bank. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application.",
-                "information2" : "I work alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and our native apps.",
+                "information" : "As a product designer at Capital One Bank, I led the designs for the account opening experience. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application. The design decisions I make are critical to the growth of the bank.",
+                "information2" : "I worked alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and recently – Android.",
                 "image" : "/assets/pavingpaths/Scope.svg"
             },
             {
