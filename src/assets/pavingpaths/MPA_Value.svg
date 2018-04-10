@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="780px" height="162px" viewBox="0 0 780 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Image / MPA_Value</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AO_PavingPaths" transform="translate(-329.000000, -12336.000000)">
+            <g id="Image-/-MPA_Value" transform="translate(329.000000, 12336.000000)">
+                <rect id="Rectangle-10" fill="#FFFFFF" x="0.998703662" y="0" width="778.988857" height="161.789993"></rect>
+                <text id="The-customers-openin" font-family="BebasNeueBold, Bebas Neue" font-size="20" font-weight="bold" letter-spacing="1" fill="#333333">
+                    <tspan x="0" y="107.837958">The customers opening a Checking and </tspan>
+                    <tspan x="0" y="131.837958">Savings accounts on the same day</tspan>
+                    <tspan x="257.36" y="131.837958">.</tspan>
+                </text>
+                <rect id="Rectangle-19" fill="#363636" x="358" y="31" width="2" height="74"></rect>
+                <text id="TRIPLEd" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" line-spacing="80" fill="#363636">
+                    <tspan x="0" y="75.9429611">TRIPLEd</tspan>
+                </text>
+                <text id="Projected-net-income" font-family="BebasNeueBold, Bebas Neue" font-size="20" font-weight="bold" letter-spacing="1" fill="#333333">
+                    <tspan x="457" y="108">Projected net income before taxes </tspan>
+                    <tspan x="457" y="132">over the next 4 years</tspan>
+                    <tspan x="623.24" y="132">.</tspan>
+                </text>
+                <text id="$33-MILLION" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" line-spacing="80" fill="#363636">
+                    <tspan x="457" y="76">$33 </tspan>
+                    <tspan x="572.07" y="84.96" font-size="50">MILLION</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

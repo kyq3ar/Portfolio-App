@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="780px" height="149px" viewBox="0 0 780 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Image / DollarValue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AO_PavingPaths" transform="translate(-330.000000, -8238.000000)">
+            <g id="Image-/-DollarValue" transform="translate(330.000000, 8238.000000)">
+                <rect id="Rectangle-18" fill="#FFFFFF" x="0" y="0" width="780" height="149"></rect>
+                <rect id="Rectangle-19" fill="#363636" x="357" y="43" width="2" height="74"></rect>
+                <text id="Increase-in-Conversi" font-family="BebasNeueBold, Bebas Neue" font-size="20" font-weight="bold" letter-spacing="1" fill="#333333">
+                    <tspan x="85" y="109">Increase in Conversions</tspan>
+                    <tspan x="85" y="133">Over the Baselin</tspan>
+                    <tspan x="211.78" y="133">e</tspan>
+                </text>
+                <text id="~24%" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" line-spacing="80" fill="#363636">
+                    <tspan x="85" y="82">~24%</tspan>
+                </text>
+                <text id="Projected-Net-Income" font-family="BebasNeueBold, Bebas Neue" font-size="20" font-weight="bold" letter-spacing="1" fill="#333333">
+                    <tspan x="435" y="109">Projected Net Income (After Taxes)</tspan>
+                    <tspan x="435" y="133">For 201</tspan>
+                    <tspan x="491.7" y="133">8</tspan>
+                </text>
+                <text id="+$10-MILLION" font-family="BebasNeue-Regular, Bebas Neue" font-size="80" font-weight="normal" line-spacing="80" fill="#363636">
+                    <tspan x="435" y="82">+$10 </tspan>
+                    <tspan x="582.07" y="90.96" font-size="50">MILLION</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
