@@ -187,72 +187,82 @@
                 "imageDesc2" : "In order to fully visualize the experience, I initiated a living service blueprint through a collaboration tool called MURAL. I encouraged our partners to help me document each page a customer views, thoughts and feelings, analytics, associate and call center involvement, and the location of where each of our APIs was being called.",
 
                 "image4" : "/assets/pavingpaths/BranchPhotos.png",
-                "imageTitle3" : "Service Blueprinting",
-                "imageDesc3" : "In order to fully visualize the experience, I initiated a living service blueprint through a collaboration tool called MURAL. I encouraged our partners to help me document each page a customer views, thoughts and feelings, analytics, associate and call center involvement, and the location of where each of our APIs was being called."
+                "imageTitle3" : "Field Research",
+                "imageDesc3" : "To gain insights on our customers, I connected and visited associates across the nation. My team and I visited various branches up and down major east coast cities such as New York and Washington DC, suburban neighborhoods in Wilmington, Delaware, and west coast cities like San Francisco."
 
             }, 
             {
-                "keys" : ["title", "information", "image", "imageTitle", "imageDesc"],
+                "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2"],
                 "locked" : "true",
                 "title" : "Building with Design Guidelines",
                 "information" : "The account opening application had a different visual language than the marketing and the post-account opening experience. There was a need to update the account opening experience to keep a consistent experience across all features. Our next goal was to update the visual design language.",
                 "image" : "/assets/pavingpaths/StyleGuide.png",
                 "imageTitle" : "Consistency in Design",
-                "imageDesc" : "We wanted to ensure that all the design requirements were up to date. However, the code infrastructure was unchanged and all designs created needed to be within the realm of the tech architecture."
+                "imageDesc" : "We wanted to ensure that all the design requirements were up to date. However, the code infrastructure was unchanged and all designs created needed to be within the realm of the tech architecture.",                
+                "image2" : "/assets/pavingpaths/Userlabs.png",
+                "imageTitle2" : "Userlabs Testing",
+                "imageDesc2" : "We saw a lot of positive feedback in userlabs when we updated the UX of the content, along with some changes in the information hierarchy."
+                
             },
             {
-                "keys" : ["title", "information", "information2", "image"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc2", "image2", "imageTitle2", "imageDesc2"],
                 "locked" : "true",
-                "title" : "A/B Testing Design",
-                "information" : "My decision to bring a design language to the application was not unchallenged. There were concerns (and very legitimate ones) of the success of design language, along with the technology challenges that we were already facing",
-                "information2" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. Using a new A/B testing platform built by the engineering team, we ran two tests against the current design within live traffic.",
-                "image" : "/assets/pavingpaths/ABTest.svg"
+                "title" : "Content First Design",
+                "information" : "We understand content is king. In order to figure out the right things to say at the right time, we worked with data analysts to figure out the exact scroll position in which a prospective customer would drop off. What exactly did customers avoided answering, and why?",
+                "information2" : "I worked closely with a content strategist to take our application and apply humanity into the interface. Working with legal and compliance, we wanted to ensure customers understand all the complicated jargon that is bank terminology.",
+                "image" : "/assets/pavingpaths/Competitors.png",
+                "imageTitle" : "Competitive Analysis",
+                "imageDesc" : "We documented and gained insights from well known financial apps along with gaining insights from a research team that provided an analysis of the top banks and their account opening process.",
+
+                "image2" : "/assets/pavingpaths/Existing.png",
+                "imageTitle2" : "Do you already have a Capital One account?",
+                "imageDesc2" : "A key screen that attributed to our success was asking if customers already have a Capital One account with us. This screen allowed us to redirect applicants to the correct application. I worked with our content strategist to continue testing for improved language.",
+
+                "image3" : "/assets/pavingpaths/v2Design.png",
+                "imageTitle3" : "Restructuring the Way Information was Presented",
+                "imageDesc3" : "The previous application asked for sensitive information upfront, such as the Social Security number. By pushing the Social Security number further into the application, we played with the idea that can ease our customers in by asking less sensitive information first."
+                
             },
+
+
             {
-                "keys" : ["title", "information", "image", "information2", "image2", "imageTitle", "imageDesc", "image3", "imageTitle2", "imageDesc2", "image4", "image5", "imageTitle3", "imageDesc3", "image6", "imageTitle4", "imageDesc4"],
+                "keys" : ["image", "title", "information", "information2", "image2"],
+                "locked" : "true",
+                "image" : "/assets/pavingpaths/Testing.svg",
+                "title" : "A/B Testing Designs",
+                "information" : "My decision to bring a design language to the application was not unchallenged. There were concerns (and very legitimate ones) of the success of design language, along with the technology challenges that we were already facing.",
+                "information2" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. Using a new A/B testing platform built by the engineering team, we ran two tests against the current design within live traffic.",
+                "image2" : "/assets/pavingpaths/ABTest.svg"                
+            },
+
+            {
+                "keys" : ["title", "information", "image", "information2"],
                 "locked" : "true",
                 "title" : "Results",
                 "information" : "We incrementally boosted testing traffic for our A/B test each day as we saw successes. By the end of our test, we had learned that updating content hierarchy created more impact than a pure reskin alone. By the final day, the initial test saw a 24% increase in conversions with 99% confidence in statistical significance.",
                 "image" : "/assets/pavingpaths/DollarValue.svg",
-                "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources.",
-                "image2" : "/assets/pavingpaths/Comparison.png",
-                "imageTitle" : "Old vs. New",
-                "imageDesc" : "While synthesizing the results, we realized there were too many uncontrolled components in our test for us to figure what to improve further. We still did not know just exactly what aspects was working and what was not.",
-                "image3" : "/assets/pavingpaths/Userlabs.png",
-                "imageTitle2" : "Userlabs Testing",
-                "imageDesc2" : "We saw a lot of positive feedback in userlabs when we updated the UX of the content, along with some changes in the information hierarchy.",
-                "image4" : "/assets/pavingpaths/Testing.svg",
-                "image5" : "/assets/pavingpaths/Existing.png",
-                "imageTitle3" : "Do you already have a Capital One account?",
-                "imageDesc3" : "A key screen that attributed to our success was asking if customers already have a Capital One account with us. This screen allowed us to redirect applicants to the correct application. I worked with our content strategist to continue testing for improved language.",
-                "image6" : "/assets/pavingpaths/v2Design.png",
-                "imageTitle4" : "Restructuring the Way Information was Presented",
-                "imageDesc4" : "The previous application asked for sensitive information upfront, such as the Social Security number. By pushing the Social Security number further into the application, we played with the idea that can ease our customers in by asking less sensitive information first."
+                "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources."
+                
             },
+
+
             {
-                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "image3", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
                 "title" : "More A/B Testing: Measuring Desirability",
                 "information" : "To build a truly unified experience, we wanted to explore the idea of allowing customers open multiple accounts at the same time. Learning from the successes of our past experience, we wanted to run a low risk A/B test in order to gain momentum.",
                 "information2" : "If a customer were to successfully open up a product, we would allow them to add on an additional product – similar to how candy is placed at the grocery check out.",
                 "image" : "/assets/pavingpaths/MultiProduct.png",
-                "imageTitle" : "Focus on Content",
+                "imageTitle" : "Focus on the Content",
                 "imageDesc" : "We focused on the fact that it’s fee-free and won’t cost the customer anything to open an additional account. The interstitial would appear if a customer were qualified, and have just completed opening a new account with us.",
-                "image2" : "/assets/pavingpaths/MPA_Value.svg"
+
+                "image2" : "/assets/pavingpaths/MPA_Value.svg",
+                "image3" : "/assets/pavingpaths/Android.png",
+                "imageTitle3" : "Continuous Optimizations",
+                "imageDesc3" : "As we gained insights on responsive web, I would apply them to our Android experience as well. Partnering with various development teams and designers, I currently also lead the Android account opening efforts."
+                
             },
-            {
-                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "imageTItle2", "imageDesc2"],
-                "locked" : "true",
-                "title" : "Next Steps: Innovating New Experiences",
-                "information" : "We understand content is king. In order to figure out the right things to say at the right time, we work with data analysts to figure out the exact scroll position in which a prospective customer would drop off.",
-                "information2" : "We want to take our application and apply humanity into the interface. Working with legal and compliance, we want to ensure customers understand all the complicated bank terminology. We didn’t want any of that bank jargon. We are ready to take the design even further.",
-                "image" : "/assets/pavingpaths/Competitors.png",
-                "imageTitle" : "Competitive Analysis",
-                "imageDesc" : "We documented and gained insights from well known financial apps along with gaining insights from a research team that provided an analysis of the top banks and their account opening process.",
-                "image2" : "/assets/pavingpaths/Android.png",
-                "imageTitle2" : "Award Winning Android App",
-                "imageDesc2" : "As we gained insights on responsive web, I would apply them to our Android experience as well. Partnering with various development teams and designers, I currently lead the Android account opening efforts."
-            },
+            
             {
                 "keys" : ["title", "information", "information2", "information3"],
                 "bg" : "f5f5f5",
