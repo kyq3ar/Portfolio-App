@@ -22,7 +22,7 @@
         {{card.fronttitle2}}
         <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
       </h2>
-      <p class = "description">{{card.frontdescription}}</p>
+      <p *ngIf="card.frontdescription" class = "description">{{card.frontdescription}}</p>
       <p class = "description2">{{card.frontschooldescription}}</p>
       <p class = "category">{{card.category1}} <br> {{card.category2}}</p>
     </div>
