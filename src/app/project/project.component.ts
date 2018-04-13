@@ -59,6 +59,11 @@ export class ProjectComponent implements OnInit {
       return true;
     }
   }
+  
+  passwordSectionShown() {
+    console.log(!this.isUnlocked);
+    return !this.isUnlocked;
+  }
 
   checkPassword(){
     console.log(this.password);
