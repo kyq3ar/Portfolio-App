@@ -61,14 +61,13 @@
 .section {
     .section2 {
         max-width: 780px;
-        margin: 60px auto 0 auto;
-
+        margin: 0 auto;
         // background-color: #999;
         
         font-family: 'capitolina', serif;
         font-style: normal;
         font-weight: 300;
-        color: #444;
+        color: #273B49;
         font-size: 20px;
         padding: 2% 10% 4%;
 
@@ -88,7 +87,7 @@
             margin-bottom: 20px;
         }
         .imageTitle {
-            font-family: 'Rucksack', sans-serif;
+            font-family: 'Open Sans', sans-serif;
             font-weight: bold;
             font-size: 14px;
             letter-spacing: normal;
@@ -96,7 +95,7 @@
             line-height: normal;
         }
         .imageDesc {
-            font-family: 'Rucksack', sans-serif;
+            font-family: 'Open Sans', sans-serif;
             font-size: 14px;
             color: #5c5c5c;
             letter-spacing: normal;
@@ -130,10 +129,11 @@ input:focus:-ms-input-placeholder {
 }
             .text {
                 text-align: center;
-                font-family: Bebas Neue;
+                font-family: capitolina;
+                font-weight: 100;
                 font-size: 20px;
                 line-height: 30px;
-                letter-spacing: 5px;
+                letter-spacing: 1px;
                 border: solid 1px #979797;
                 color: #363636;
                 
@@ -143,12 +143,12 @@ input:focus:-ms-input-placeholder {
         }
         .unlock {
             text-align: center;
-            margin-bottom: 150px;
+            margin-bottom: 100px;
 
             .unlockbutton {
                 font-family: Bebas Neue;
                 font-size: 20px;
-                background-color: #808B93;
+                background-color: #273B49;
                 border: none;
                 padding: .9em;
                 color: #fff;

@@ -16,11 +16,11 @@
       <img *ngIf="card.logo" class = "logo" [src] ="card.logo">
       <h2 class = "title">
         <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Design</span> 
-        <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
         {{card.fronttitle}}
-        <br>
-        {{card.fronttitle2}}
         <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
+        {{card.fronttitle2}}
+        <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
+
       </h2>
       <p *ngIf="card.frontdescription" class = "description">{{card.frontdescription}}</p>
       <p class = "description2">{{card.frontschooldescription}}</p>
