@@ -44,11 +44,11 @@
                 "title" : "Assessing the Client's Needs",
                 "information" : "Start Small Think Big is a legal, financial, and marketing consultancy for local mid-income level entrepreneurs that had reached out to Adaptive Path for design consultancy of their online application. ",
                 "information2" : "My role at Capital One allowed me to quickly understand that the redesign of a successful online application was more than just pixel pushing. As a team, we began evaluated their existing process, and looked at all their existing tools and processes of onboarding a client.",
-                "image" : "/assets/adaptivepath/draft.png",
+                "image" : "/assets/adaptivepath/SSTB.png",
                 "imageTitle" : "Start Small Think Big (Homepage)",
                 "imageDesc" : "The agency provided legal, financial, and marketing consultancy to moderate income neighborhood entrepreneurs. They have helped people start bakeries and other small businesses.",
 
-                "image2" : "/assets/adaptivepath/SSTB.png",
+                "image2" : "/assets/adaptivepath/draft.png",
                 "imageTitle2" : "Service Blueprint",
                 "imageDesc2" : "Based on the initial conversation with the client, we mapped out what we knew of the full experience. This included client, associate, and backend facing actions. We also marked it with follow up questions for our on-site visit."
                 
@@ -61,19 +61,16 @@
                 "title" : "Identifying the Larger Problem",
                 "information" : "We had arranged a phone call with the client to learn more about their process and through the phone call, we worked together to create a draft service blueprint to highlight the entire onboarding process of their service. Through blueprinting their process, we learned that the onboarding process consisted of a series of long and tedious forms, while being people heavy, reactionary, and in general – lacked an integrated process.",
                 "information2" : "While evaluating our time constraint, we also quickly concluded that there would be no tangible product to hand off to our client (at least not a complete product). We had no developers and we would not be able to redesign their intake form as they had requested. However, rather than delivering an unfinished product, we catered the solution of empowering our client by spending the 40 hours teaching them design thinking. Through teaching design methodologies, they’ll be able to solve pain points long after we leave.",
-                "image" : "/assets/adaptivepath/Kickoff.svg",
-                "image2" : "/assets/adaptivepath/Wework.svg"
+                "image" : "/assets/adaptivepath/Quote.svg",
+                "image2" : "/assets/adaptivepath/Kickoff.svg"
+                
 
             },
             {
                 "keys" : ["image", "image2", "image3"],
-                
-                "image" : "assets/adaptivepath/DesignKit.png",
-                "imageDesc" : "We prepared a notetaking kit to bring with us to Start Small Think Big’s office :)",
-                "image2" : "assets/adaptivepath/WeWork.png",
-                "imageDesc2" : "Located in Harlem, New York, Start Small Think Big had a very inviting WeWork space they worked out of.",
-                "image3" : "assets/adaptivepath/Notetaking.png",
-                "imageDesc3" : "We brought in a physical version of the service blueprint to walk over with Start Small Think Big to make sure we captured all the key components."
+                "image" : "/assets/adaptivepath/Wework.svg",
+                "image2" : "assets/adaptivepath/DesignKit.png",
+                "image3" : "assets/adaptivepath/Notetaking.png"
             },
             {
                 "keys" : ["title", "information", "image", "image2", "image3", "imageTitle", "imageDesc"],
@@ -90,7 +87,7 @@
                 "title" : "Service Blueprinting and Teaching Design",
                 "information" : "With only 40 hours, we couldn’t give our client the solution they had expected. However, we would be able to host a design jam and teach our client how to use design methodologies. Although we couldn’t give them a finished product, we still wanted to provide some sort of tangible product. I worked alongside another design to hash out a 36 x 100 inch service blueprint that they can place onto the wall. This way they can get a full visual of their process.",
                 "information2" : "Rather than using our time to hand over an unfinished product, we to put together a design jam to allow our client to get first hand experience.",
-                "image" : "assets/adaptivepath/Blueprint.png"
+                "image" : "assets/adaptivepath/blueprint.png"
             }, 
             {
                 "keys" : ["title", "information", "information2", "image", "image2", "imageTitle", "imageDesc"],
@@ -106,7 +103,7 @@
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "title" : "Conclusion",
                 "information" : "The design jam allowed our client’s team to learn to resolve problems through not only design thinking methodologies, but also open communication as well. Each individual were able to openly express their pain points while they worked together to discuss potential solutions. They brought back what they learned and showed us they had hung the service blueprint in their office.",
-                "image" : "/assets/adaptivepath/BlueprintPrintout.png",
+                "image" : "/assets/adaptivepath/blueprintprintout.png",
                 "imageDesc" : "We learned they had placed the service blueprint on their wall and it has encouraged their team to openly discuss pain points as they work together to solve their intake process."
             },
             {
