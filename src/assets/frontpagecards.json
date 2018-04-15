@@ -2,13 +2,13 @@
     {
         "id" : "1",
         "type" : "work",
-        "logo" : "/assets/home/AP_Logo.png",
-        "bg" : "/assets/home/AdaptivePath.png",
+        "logo" : "/assets/home/Adaptivepath_logo.svg",
+        "bg" : "/assets/home/AdaptivePath.svg",
         "detailbg" : "/assets/adaptivepath/Cover_Adaptive.png",
         "fronttitle" : "to empower communities.",
         "detailtitle" : "to empower communities.",
         "highlight" : "aafcb4",
-        "frontdescription" : "Creating accessibility to design by teaching design thinking to a non-profit organization.",
+        "frontdescription" : "Creating accessibility to design by teaching design thinking.",
         "detaildescription" : "Creating accessibility to design by teaching design thinking to a non-profit organization.",
         "category1" : "Service Design &",
         "category2" : "Helping the Community",
@@ -119,7 +119,7 @@
     {
         "id" : "2",
         "type" : "work",
-        "logo" : "/assets/home/C1_Logo.png",
+        "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
         "fronttitle" : "Optimizing",
@@ -127,8 +127,8 @@
         "detailtitle" : "Paving the road for ",
         "detailtitle2" : "Account Openings.",
         "highlight" : "4B9DCC",
-        "frontdescription" : "How designing better content structure and collaboration improved our conversions 24%.",
-        "detaildescription" : "How designing better content structure and collaboration improved our conversions 24%.",
+        "frontdescription" : "How focusing on content design increased conversions by 24%.",
+        "detaildescription" : "How focusing on content design increased conversions by 24%.",
         "category1" : "Analytical Optimizations &", 
         "category2" : "A/B Testing Features",
         "body" : [
@@ -150,8 +150,8 @@
          
             {
                 "keys" : ["warning", "warning2", "input", "unlock"],
-                "warning" : "Due to the sensitive nature of this work, the content and process needs to be protected. Please contact me if you are interested in viewing this case study.",
-                "warning2" : "Email » danzhuu@gmail.com « to unlock.",
+                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
+                "warning2" : "https://www.linkedin.com/in/danzhuu/",
                 "input" : "enter password",
                 "unlock" : "unlock"
                 
@@ -286,14 +286,14 @@
     {
         "id" : "3",
         "type" : "work",
-        "logo" : "/assets/home/C1_Logo.png",
+        "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/CoffeeShop.png",
         "detailbg" : "/assets/relationships/Cover_Relationships.png",
         "fronttitle" : "Building relationships",
         "fronttitle2" : "through",
         "detailtitle" : "to Build Relationships ",
         "highlight" : "fce9aa",
-        "frontdescription" : "How we designed account opening so associates can focus on building branch relationships.",
+        "frontdescription" : "Designing with customer relationships in mind while ensuring security.",
         "detaildescription" : "How we designed account opening so associates can focus on building branch relationships.",
         "category1" : "Conversations &", 
         "category2" : "Fraud in Product Design",
@@ -419,6 +419,7 @@
         "type" : "school",
         "bg" : "/assets/home/Yoona.png",
         "detailbg" : "/assets/ruksak/Cover_Ruksak.png",
+        "logo" : "",
         "highlight" : "e4b0b4",
         "fronttitle" : "Tag and share your stuff",
         "detailtitle" : "Tag and share your stuff",

@@ -2,14 +2,26 @@ body {
     max-width: 950px;
     height: 100%;
 
+
+
+    @media only screen and (max-width: 414px) and (min-width: 300px) {
+
+            
+            margin: auto;
+            max-width: 100%;
+            max-height: 450px;
+
+            }
     
 }
+
+
 .header {
     max-width: 950px;
     margin: 200px auto 30px auto;
-    line-height: 60px;
-
+    
     font-size: 60px;
+    line-height: 60px;    
     font-weight: 300;
     color: #273B49;
     letter-spacing: 1.5px;
@@ -23,6 +35,15 @@ body {
     .dark-blue {
         color: #0d74af;
     }
+
+
+    @media only screen and (max-width: 414px) and (min-width: 300px) {
+
+            
+            margin: 50px auto 30px auto;
+            font-size: 40px;
+            line-height: 40px;    
+            }
 
 }
 hr {
@@ -40,13 +61,15 @@ ul {
 
     font-family: 'Bebas Neue';
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 5px;
     color: #273B49;
     li {
         float: left;
         padding-left: 0;
         padding-right: 60px;
+
+        
     }
     li a {
         display: block;
@@ -74,15 +97,17 @@ ul {
         color: #fff;
         padding-top: 20px;
 
+        
 
 
         .card {
             cursor: pointer;
             float: left;
-            width: 260px;
-            margin: 0px 10px 10px 0px;
-            padding: 20px;
+            width: 261px;            
             height: 450px;
+            margin: 0px 15px 15px 0px;
+
+            padding: 20px;
             position: relative;
             display: block;
             background-size: 100%;
@@ -90,33 +115,40 @@ ul {
 
             @media only screen and (max-width: 414px) and (min-width: 300px) {
 
-            height: 350px;
-            margin: 0 auto 10px auto;
-            width: 290px;
+            
+            margin: 2px auto;
+            width: 100%;
+            max-height: 350px;
 
 
             }
 
             .logo {
-                width: auto;
-                height:38px;
+                // background-color: #ff6352;
+                
+                width: 100px;
+                height:auto;
                 margin-top: 7%;
             }
 
 
             .title {
+                //background-color: #345742;
+                max-width: 300px;
                 font-weight: 200;
-                font-size: 30px;
-                letter-spacing: 1.8px;
-                height: 70px;
+                font-size: 24px;
+                line-height: 28px;
+                letter-spacing: 2.1px;
             }
             
             .description {
-                padding-top: 20px;
+                //background-color: #675628; 
+
+                padding-top: 0px;
                 font-family: 'Open Sans', sans-serif;
                 font-weight: 100;
-                line-height: 25px;
-                font-size: 15px;
+                line-height: 18px;
+                font-size: 14px;
                 letter-spacing: .5px;
 
             }
@@ -136,7 +168,7 @@ ul {
                 position: absolute;
                 bottom: 0;
                 padding-bottom: 1.5em;
-                font-size: 15px;
+                font-size: 14px;
                 line-height: 1.43;
                 font-weight: 100;
             }    

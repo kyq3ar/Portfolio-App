@@ -1,13 +1,16 @@
 <h1 class = "header">
-  <span class="name">Dan Zhu</span> <br>is an interaction<br> 
-  and product designer
-  <span class="dark-blue">@Capital One</span>
+  <span class="name">Dan Zhu</span> <br> is a 
+  product designer <br> for
+  <span class="dark-blue">Capital One</span>
 </h1>
+
+
+
 <hr>
 <ul>
-  <li>•Portfolio•</li>
-  <li><a routerLink="/resume.pdf" target="_blank">Résumé</a></li>
   <li><a routerLink="/about">About</a></li>
+  <li><a routerLink="/resume.pdf" target="_blank">Résumé</a></li>
+  
 </ul>
 <hr>
 <div class = "page">
@@ -15,11 +18,11 @@
     <div class = "card" *ngFor = "let card of cards" [style.background-image]="'url('+card.bg+')'" (click)="onClick(card)">
       <img *ngIf="card.logo" class = "logo" [src] ="card.logo">
       <h2 class = "title">
-        <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Design</span> 
+        <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Designing</span> 
         {{card.fronttitle}}
         <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
         {{card.fronttitle2}}
-        <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
+        <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Design</span>
 
       </h2>
       <p *ngIf="card.frontdescription" class = "description">{{card.frontdescription}}</p>
