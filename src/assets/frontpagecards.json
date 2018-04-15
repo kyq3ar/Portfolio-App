@@ -129,8 +129,8 @@
         "highlight" : "4B9DCC",
         "frontdescription" : "How designing better content structure and collaboration improved our conversions 24%.",
         "detaildescription" : "How designing better content structure and collaboration improved our conversions 24%.",
-        "category1" : "Product Design &", 
-        "category2" : "A/B Testing",
+        "category1" : "Analytical Optimizations &", 
+        "category2" : "A/B Testing Features",
         "body" : [
             {
                 "keys" : ["title", "information", "information2", "image"],
@@ -151,7 +151,7 @@
             {
                 "keys" : ["warning", "warning2", "input", "unlock"],
                 "warning" : "Due to the sensitive nature of this work, the content and process needs to be protected. Please contact me if you are interested in viewing this case study.",
-                "warning2" : "Chat with me over linkedin",
+                "warning2" : "Email » danzhuu@gmail.com « to unlock.",
                 "input" : "enter password",
                 "unlock" : "unlock"
                 
@@ -282,6 +282,7 @@
     },
 
 
+
     {
         "id" : "3",
         "type" : "work",
@@ -294,12 +295,8 @@
         "highlight" : "fce9aa",
         "frontdescription" : "How we designed account opening so associates can focus on building branch relationships.",
         "detaildescription" : "How we designed account opening so associates can focus on building branch relationships.",
-        
-        
-        
-        
-        "category1" : "Product Design &", 
-        "category2" : "Collaborating",
+        "category1" : "Conversations &", 
+        "category2" : "Fraud in Product Design",
         "body" : [
             {
                 "keys" : ["title", "information", "image"],

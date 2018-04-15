@@ -42,23 +42,26 @@ ul {
     font-size: 18px;
     font-weight: 300;
     letter-spacing: 5px;
-    color: #687680;
+    color: #273B49;
     li {
         float: left;
+        padding-left: 0;
+        padding-right: 60px;
     }
     li a {
         display: block;
-        color: #687680;
         text-align: center;
-        padding-left: 0;
-        padding-right: 60px;
+        color: #273B49;
         text-decoration: none;
-        opacity: 1;
     }
-    li:hover {
-        font-weight: 600;
-        opacity: 1;
+    a:hover {
+        opacity: 0.5;
         
+    }
+
+    a:active {
+        cursor: default;
+        font-weight: 300;
     }
 }
 .page {
@@ -85,7 +88,7 @@ ul {
             background-size: 100%;
 
 
-            @media only screen and (max-width: 500px) and (min-width: 300px) {
+            @media only screen and (max-width: 414px) and (min-width: 300px) {
 
             height: 350px;
             margin: 0 auto 10px auto;
@@ -112,9 +115,9 @@ ul {
                 padding-top: 20px;
                 font-family: 'Open Sans', sans-serif;
                 font-weight: 100;
-                line-height: 20px;
+                line-height: 25px;
                 font-size: 15px;
-                letter-spacing: .2px;
+                letter-spacing: .5px;
 
             }
             .description2 {
@@ -138,6 +141,10 @@ ul {
                 font-weight: 100;
             }    
         }
+    }
+
+    .card:hover{
+        opacity: 0.95;
     }
 }
 

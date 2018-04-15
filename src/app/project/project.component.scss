@@ -3,12 +3,13 @@
     margin-left: auto;
     margin-right: auto;
 
-    
 }
+
 
 .header {
     background-color: #181d20;
     color: #fff;
+
 
 
     .logo {
@@ -20,11 +21,8 @@
         
     }
     .title {
-        // background-color: #222354;
-
         max-width: 780px;
-        margin-left: auto;
-        margin-right: auto;
+        margin: auto;
         margin-bottom: 20px;
 
         font-family: 'Bebas Neue', sans-serif;
@@ -33,9 +31,14 @@
         letter-spacing: 1.5px;
         line-height: 51px;
 
-        @media only screen and (max-width: 600px) and (min-width: 400px) {
+        @media only screen and (max-width: 414px) and (min-width: 320px) {
 
             max-width: 350px;
+            }
+
+        @media only screen and (max-width: 768px) and (min-width: 414px) {
+
+            max-width: 780px;
             }
 
     }
@@ -60,19 +63,20 @@
 
 .section {
     .section2 {
+        //background-color: #345345;
         max-width: 780px;
         margin: 0 auto;
-        // background-color: #999;
         
         font-family: 'capitolina', serif;
         font-style: normal;
-        font-weight: 300;
+        font-weight: 100;
         color: #273B49;
         font-size: 20px;
-        padding: 2% 10% 4%;
+        padding-bottom: 30px;
+        padding-top: 30px;
 
         .title {
-            // background-color: #999;
+            //background-color: #345754;
             font-family: 'Bebas Neue', sans-serif;
             font-weight: 300;
             font-size: 30px;
@@ -81,18 +85,18 @@
         }
 
         .description {
-            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
             line-height: 1.5px;
             font-size: 50px;
-            margin-bottom: 20px;
         }
         .imageTitle {
             font-family: 'Open Sans', sans-serif;
-            font-weight: bold;
+            font-weight: 400;
             font-size: 14px;
             letter-spacing: normal;
             color: #5c5c5c;
-            line-height: normal;
+            //background-color: #444;
+            line-height: 18px;
         }
         .imageDesc {
             font-family: 'Open Sans', sans-serif;
@@ -111,9 +115,12 @@
             text-align: center;
         }
         .input {
+            //background-color: #346745;
             text-align: center;
             input:focus::-webkit-input-placeholder {
-   color:transparent;
+            color:transparent;
+            padding: 0;
+            margin: 0;
 }
 
 input:focus:-moz-placeholder { /* Firefox 18- */
@@ -129,16 +136,15 @@ input:focus:-ms-input-placeholder {
 }
             .text {
                 text-align: center;
-                font-family: capitolina;
+                font-family: 'capitolina';
                 font-weight: 100;
                 font-size: 20px;
-                line-height: 30px;
+
                 letter-spacing: 1px;
                 border: solid 1px #979797;
-                color: #363636;
-                
-                padding: .7em;
-                width: 41.5%;
+                color: #363636;  
+                min-width: 350px;
+                min-height: 50px;
             }
         }
         .unlock {
@@ -146,14 +152,17 @@ input:focus:-ms-input-placeholder {
             margin-bottom: 100px;
 
             .unlockbutton {
-                font-family: Bebas Neue;
+                margin: auto;
+                font-family: 'Bebas Neue';
                 font-size: 20px;
                 background-color: #273B49;
                 border: none;
-                padding: .9em;
                 color: #fff;
                 letter-spacing: 5px;
-                width: 45%;
+                min-width: 352px;
+                min-height: 55px;
+                text-align: center;
+                cursor: pointer;
             }
 
         }
