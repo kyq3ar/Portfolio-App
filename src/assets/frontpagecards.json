@@ -301,86 +301,95 @@
             {
                 "keys" : ["title", "information", "image"],
                 "title" : "Designing for a Bank",
-                "information" : "I am the designer for account opening at Capital One. I am responsible for both the responsive web and native Android experiences. I work alongside other designers and product managers to ensure that the account opening experience is cohesive and consistent with the rest of the brand.",
+                "information" : "Designing for a bank at first glance sounds dry and unsexy. We complain a lot about banking just like we complain about the DMV and the airport, however, there isn’t much done to change it. Banking is riped for innovation and I got an offer for a chance to change it. My role as a designer for Capital One comes with a unique challenge in that we’re designing something that is extremely sensitive, and have a lot of emotional connections that we can all relate to – money.",
                 "image" : "/assets/relationships/Peets.png"
                 
             },
             {
-                "keys" : ["title", "information", "information2", "information3"],
+                "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
-                "title" : "The Challenge",
-                "information" : "Often times, a customer’s interaction with a brand is not limited to the dimensions of the device. Although substantial, interface design does not represent the full user experience.",
-                "information2" : "When you get into your Uber ride, your experience does not end after you tap the request button. What happens during the duration of your ride, your driver’s personality, how clean the car is, and the follow up all build into the Uber experience. ",
-                "information3" : "Working on account opening is similar. How do you design to include surprise and delight for a customer opening an account at a physical location?"
+                "title" : "Challenges of Designing for a Bank",
+                "information" : "Designing for a bank comes with it’s obvious challenges. There are legal and compliance implications placed on everything from the words displayed to customers to the style of the radio buttons.",
+                "information2" : "Most importantly, there is the need to design to ensure the security of our customer’s financials, that we are being transparent with the fine print, and lastly, making sure that those who want to cause harm such as fraudsters and being blocked out."
             
             },
-         
+            
+
+            {
+                "keys" : ["warning", "warning2", "input", "unlock"],
+                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
+                "warning2" : "https://www.linkedin.com/in/danzhuu/",
+                "input" : "enter password",
+                "unlock" : "unlock"
+                
+            },
+
 
             {
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
-                
+                "locked" : "true",
                 "title" : "Identifying Pain Points",
-                "information" : "Throughout my tenure as the designer for account openings, I’ve gained a ton of insights on the types of things that can improve conversion rates for an online application. Breaking up and piecemealing information to users allowed for users to process information better. Asking questions at the right time increased engagement.",
-                "information2" : "However, designing the account opening experience is still so much more than just a digitatized application. I worked with my product partners and other designers to blueprint the full experience to include every action that was performed – including the offline experience.",
+                "information" : "One of the course of actions I took while designing for account openings was looking at the entire experience. I look beyond the digital experience – at what customers were thinking and feeling from the time they decide to make the decision to open an account until the final success screen.",
+                "information2" : "To do so, I mapped out the customer’s journey in a giant service blueprint:",
                 "image" : "/assets/relationships/Blueprints.png",
                 "imageTitle" : "Full Account Opening Service Blueprint",
                 "imageDesc" : "Working together with partners from other aspects of the customer journey, I mapped out all customer and associate facing actions along with key data points so we can visually see where to improve (blurred for security reasons)."
                 
             },
             {
-                "keys" : ["title", "information", "information2", "information3"],
-                
-                "title" : "Prioritizing",
-                "information" : "Admittingly, account openings had a lot of moving parts that were all interconnected with a lot of legacy code. This created a lengthly backlog of problems that needed to be addressed. There is efforts to modernize our infrastructure, but we still wanted to design to maintain a high NPS (Net Promoter Score) and strong customer satisfaction.",
-                "information2" : "One example is a large concern coming from our branch associates – joint account openings. Opening a joint account has a complex flow in production, and was often viewed as the most frustrating experience. However, the design and tech effort required to redesign the flow was massive, and could not be justified by the very limited number of cases each month. ",
-                "information3" : "As a team consisting of multi-disciplinary members, we wanted to create designs that had strong impact first. In this case study, I’ll be focusing on an instance that we decided was a more minimal tech effort, but created a large impact."
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "information3", "information4"],
+                "locked" : "true",
+                "title" : "Constraints",
+                "information" : "Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. This created a lengthly backlog of problems that needed to be addressed. There is efforts to modernize our infrastructure, but we still wanted to design to maintain a high NPS (Net Promoter Score) and strong customer satisfaction in the existing platform. ",
+                "information2" : "How do we create innovative designs while working within the technology constraints? What are some minimal viable products that we can create, without sacrificing the lovable pieces of the product?",
+                "image" : "/assets/relationships/LegalConsent.png",
+                "imageTitle" : "Making Banking Human",
+                "imageDesc" : "Legal jargon is one of the most difficult aspects of designing for banking. However, I worked closely with our content strategist and our legal and compliance team to ensure we can get as close as possible to everyday language.",
+                "information3" : "Part of the challenges we faced was making all content legal, while being transparent to our customers. Nobody wants to read fine print. By providing mobile phone number consent, we can contact you if there is fraud on your account. However, customers have become suspicious (and rightfully so) due to marketing spam from online platforms.",
+                "information4" : "This creates a challenge when we’re designing to ensure transparency. As a financial institution, we also cannot suggest any legal advice. Defaulting an option or letting customers know why this benefit is good would potentially count as legal advice."
             }, 
             {
                 "keys" : ["title", "information", "image"],
-                
+                "locked" : "true",
                 "title" : "Pain Point: Call Centers and Hold Music",
                 "information" : "We’ve all been through it. We all dread it. One of the major pain points branch associates had expressed was the identity verification process. The process included lengthly calls with faceless call-center associates that often resulted in customers waiting on the phone for up to 30 minutes.",
                 "image" : "/assets/relationships/Painpoint.svg"
                 
             },
             {
-                "keys" : ["title", "information", "information2", "image", "image2", "imageTitle", "imageDesc"],
-                
+                "keys" : ["title", "information", "image", "image2", "imageTitle", "imageDesc", "image3"],
+                "locked" : "true",
                 "title" : "Stopping the Bleeding",
-                "information" : "We wanted to soothe the pain, so we created a quick remedy while we tackled the larger problem. Rather than having a customer come into the branch only to wait on the phone, we mitigated the experience by empowering our associates. I worked with a product manager on fraud and disputes to alleviate the pain point by creating a flow that allowed the branch associates to verify who’s sitting in front of them.",
+                "information" : "We wanted to soothe the pain, so we created a quick remedy while we tackled the larger problem. Rather than having a customer come into the branch to talk to a faceless call center associate, we mitigated the experience by empowering our bankers. I worked with a product manager on fraud and disputes to alleviate the pain point by creating a flow that allowed the branch associates to verify who’s sitting in front of them.",
                 "image" : "/assets/relationships/Autopend1.png",
                 "image2" : "/assets/relationships/Autopend2.png",
                 "imageTitle" : "Branch Associate / Customer ID Verification",
-                "imageDesc" : "Rather than waiting 30 minutes on a phone call, we created a flow that would allow a branch associate to validate a customer’s ID on the spot."
+                "imageDesc" : "Rather than waiting 30 minutes on a phone call, we created a flow that would allow a branch associate to validate a customer’s ID on the spot.",
+                "image3" : "/assets/relationships/CostCut.svg"
             },
             {
-                "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2"],
-                
-                "title" : "Creating Real Conversations",
-                "information" : "Meanwhile on the web only experience, I worked closely with a UX content strategist to test an experience that was designed for customer who preferred to open an account online. We wanted to mirror an experience in which the customer can feel like they are talking to an actual person.",
+                "keys" : ["title", "information", "information2,", "image", "imageTitle", "imageDesc", "image2", "image3", "imageTitle2", "imageDesc2"],
+                "locked" : "true",
+                "title" : "Online Conversations",
+                "information" : "Meanwhile on the web only experience, I worked closely with a UX content strategist to test an experience that was designed for customers who opened online accounts. We wanted to mirror an experience in which the customer can feel like they are talking to an actual person.",
+
                 "information2" : "By bringing in humanity into a conversationally driven UI, we hoped to bring joy and delight to the account opening experience. We worked with legal and compliance to emphasize transparency, and we made sure we were asking the right questions at the right time. If a user was an existing customer, we wanted to ensure we provided a red-carpet experience where we are not asking them redundant questions we already know.",
+
                 "image" : "/assets/relationships/Pokemon.png",
                 "imageTitle" : "Learning UX From Pokemon",
                 "imageDesc" : "This is a classic question asked by Professor Oak at the start of the game’s conversational onboarding flow. However, this is an awfully awkward question in real life. We wanted to build an experience that mirrored real conversations as much as possible.",
-                "image2" : "/assets/relationships/Android.png",
-                "imageTitle2" : "Building a Smarter Application",
-                "imageDesc2" : "This project is ongoing as I collaborate with legal, compliance, and our UX content strategist to design a smarter application to mimic real life conversations."
+
+                "image2" : "/assets/relationships/GovID.png",
+
+                "image3" : "/assets/relationships/Prompt.png",
+                "imageTitle2" : "Allowing Customers to Validate ID Themselves",
+                "imageDesc2" : "In order to eliminate the need for a branch associate to do any sort of paperwork, we simplified the flow and removed the previous ID verification process so that a customer can upload the ID on their own."
                 
             },
-            {
-                "keys" : ["title", "information", "image", "image2", "imageTitle", "imageDesc"],
-                
-                "title" : "Empowering Our Customers",
-                "information" : "People continue to use our physical locations and cafes. Customers come in for financial advise, what product to open, and information regarding their accounts. How can we enhance this experience so that they are not just walking into a branch to do something that they could’ve done online?",
-                "image" : "/assets/relationships/GovID.png",
-                "image2" : "/assets/relationships/Prompt.png",
-                "imageTitle" : "Allowing Customers to Validate ID Themselves",
-                "imageDesc" : "In order to eliminate the need for a branch associate to do any sort of paperwork, we simplified the flow and removed the previous ID verification process so that a customer can upload the ID on their own."
-                
-            },
+            
             {
                 "keys" : ["title", "information", "information2"],
-                
+                "locked" : "true",
                 "title" : "Redefining Roles",
                 "information" : "As part of the design process, I often look for heuristic reviews from our branch associates. In one of my trips, I chose to visit a less popular branch in a residential neighborhood of the Bronx in New York City. This branch served a population that leaned towards the older end of the spectrum who were not tech savy. ",
                 "information2" : "The most interesting insight during this visit was how the branch manager took it on his own to redefine the associate’s roles. He turned the branch into a community space where they taught how to use smartphones."
@@ -388,19 +397,19 @@
             },
 
             {
-                "keys" : ["title", "information", "information2", "image", "image2"],
-                
+                "keys" : ["title", "information", "information2", "image"],
+                "locked" : "true",
                 "title" : "Empowering Relationship Building",
                 "information" : "In order to further empower the branch associates to build relationships with our customers, we took the need of them filling out applications completely. Rather than have branch associates fill out paperwork, we wanted to eliminate the menial tasks and be there for our customers instead.",
-                "information2" : "This aligned the company’s mission in transforming banking, and re-inventing the role of our branch associates. As artificial intelligence become more powerful in removing the menial tasks of our daily lives, we will be able to focus on critical thinking and the things that really matters. Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank.",
-                "image" : "/assets/relationships/CostCut.svg",
-                "image2" : "/assets/relationships/AndroidTx.png"
+                "information2" : "Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank. Having a real human at a branch can make customers feel more secure about their money. We don’t want the paperwork to get in the way of that, even if it’s digital paperwork.",
+                
+                "image" : "/assets/relationships/AndroidTx.png"
 
             },
 
             {
                 "keys" : ["title", "information"],
-                
+                "locked" : "true",
                 "title" : "No more Digital paperwork",
                 "information" : "My team is currently working on an experience that removes the associate from the account opening equation altogether. We want to redefine the role and have associates be there for financial advice. A new flow that allows a customer to easily open up a new account at a physical location will be coming soon."
             },

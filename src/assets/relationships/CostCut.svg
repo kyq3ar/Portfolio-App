@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="769px" height="124px" viewBox="0 0 769 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="780px" height="172px" viewBox="0 0 780 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Image / CostCut</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Relationships" transform="translate(-329.000000, -9171.000000)">
-            <g id="Image-/-CostCut" transform="translate(329.000000, 9171.000000)">
+        <g id="Relationships" transform="translate(-330.000000, -9069.000000)">
+            <g id="Image-/-CostCut" transform="translate(330.000000, 9069.000000)">
+                <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="780" height="172"></rect>
                 <text id="Eliminated-tedious-t" font-family="BebasNeueRegular, Bebas Neue" font-size="18" font-weight="normal" letter-spacing="1" fill="#333333">
-                    <tspan x="0" y="100">Eliminated tedious telephone calls and the need </tspan>
-                    <tspan x="0" y="123">for manual inputs</tspan>
-                    <tspan x="124.82" y="123">.</tspan>
+                    <tspan x="0" y="122">Eliminated tedious telephone calls and the need </tspan>
+                    <tspan x="0" y="145">for manual inputs</tspan>
+                    <tspan x="124.82" y="145">.</tspan>
                 </text>
                 <text id="CUT-COSTS" font-family="BebasNeueBold, Bebas Neue" font-size="80" font-weight="bold" line-spacing="80" fill="#363636">
-                    <tspan x="0" y="76">CUT COSTS</tspan>
+                    <tspan x="0" y="98">CUT COSTS</tspan>
                 </text>
                 <text id="Projected-savings-ea" font-family="BebasNeueRegular, Bebas Neue" font-size="18" font-weight="normal" letter-spacing="1" fill="#333333">
-                    <tspan x="429.449424" y="100">Projected savings each year through empowering </tspan>
-                    <tspan x="429.449424" y="123">associates</tspan>
-                    <tspan x="503.691424" y="123">.</tspan>
+                    <tspan x="429.449424" y="122">Projected savings each year through empowering </tspan>
+                    <tspan x="429.449424" y="145">associates</tspan>
+                    <tspan x="503.691424" y="145">.</tspan>
                 </text>
                 <text id="$500,000" font-family="BebasNeueBold, Bebas Neue" font-size="80" font-weight="bold" line-spacing="80" fill="#363636">
-                    <tspan x="429.449424" y="76">$500,000</tspan>
+                    <tspan x="429.449424" y="98">$500,000</tspan>
                 </text>
             </g>
         </g>
