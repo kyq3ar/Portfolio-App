@@ -23,6 +23,10 @@ const appRoutes: Routes = [
   {
     path: 'about',
     component: AboutpageComponent
+  },
+  {
+    path: 'resume',
+    component: ResumepageComponent
   }
 ]
 @NgModule({
@@ -32,7 +36,8 @@ const appRoutes: Routes = [
     FooterComponent,
     HeaderComponent,
     ProjectComponent,
-    AboutpageComponent
+    AboutpageComponent,
+    ResumepageComponent
   ],
   imports: [
     BrowserModule,
