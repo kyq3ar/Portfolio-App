@@ -36,8 +36,8 @@
         margin-left: auto;
         margin-bottom: 20px;
 
-        font-family: 'Bebas Neue', sans-serif;
-        font-weight: 100;
+        font-family: 'bebas-neue-by-fontfabric', sans-serif;
+        font-weight: 200;
         font-size: 48px;
         letter-spacing: 1.5px;
         line-height: 51px;
@@ -82,13 +82,14 @@
         font-style: normal;
         font-weight: 100;
         color: #273B49;
-        font-size: 20px;
-        padding-bottom: 30px;
+        font-size: 19px;
+        line-height: 32px;
+        padding-bottom: 60px;
         padding-top: 30px;
 
         .title {
             //background-color: #345754;
-            font-family: 'Bebas Neue', sans-serif;
+            font-family: 'bebas-neue-by-fontfabric', sans-serif;
             font-weight: 300;
             font-size: 30px;
             letter-spacing: 2px;
@@ -96,6 +97,7 @@
         }
 
         .description {
+            background-color: #fff456;
             font-family: 'Open Sans', sans-serif;
             line-height: 1.5px;
             font-size: 50px;
@@ -145,7 +147,7 @@ input:focus::-moz-placeholder {  /* Firefox 19+ */
 input:focus:-ms-input-placeholder {  
    color:transparent;
 }
-            .text {
+        .text {
                 text-align: center;
                 font-family: 'capitolina';
                 font-weight: 100;
@@ -164,7 +166,7 @@ input:focus:-ms-input-placeholder {
 
             .unlockbutton {
                 margin: auto;
-                font-family: 'Bebas Neue';
+                font-family: 'bebas-neue-by-fontfabric';
                 font-size: 20px;
                 background-color: #273B49;
                 border: none;

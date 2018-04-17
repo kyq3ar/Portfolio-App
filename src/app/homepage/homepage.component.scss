@@ -10,7 +10,7 @@ body {
             margin: auto;
             max-width: 100%;
             max-height: 450px;
-
+            padding-left: 20px;
             }
     
 }
@@ -19,7 +19,7 @@ body {
 .header {
     max-width: 950px;
     margin: 200px auto 30px auto;
-    
+    font-family: 'bebas-neue-by-fontfabric';
     font-size: 60px;
     line-height: 60px;    
     font-weight: 300;
@@ -40,9 +40,10 @@ body {
     @media only screen and (max-width: 414px) and (min-width: 300px) {
 
             
-            margin: 50px auto 30px auto;
+            margin: 100px auto 30px auto;
             font-size: 40px;
-            line-height: 40px;    
+            line-height: 40px;   
+            padding-left: 20px; 
             }
 
 }
@@ -59,9 +60,9 @@ ul {
     padding: 0;
     overflow: hidden;
 
-    font-family: 'Bebas Neue';
+    font-family: "bebas-neue-by-fontfabric";
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 5px;
     color: #273B49;
     li {
@@ -86,6 +87,13 @@ ul {
         cursor: default;
         font-weight: 300;
     }
+
+
+    @media only screen and (max-width: 414px) and (min-width: 300px) {
+
+            
+            padding-left: 20px; 
+            }
 }
 .page {
     .cardlist {
@@ -96,9 +104,6 @@ ul {
         margin-left: auto;
         color: #fff;
         padding-top: 20px;
-
-        
-
 
         .card {
             cursor: pointer;
@@ -116,10 +121,11 @@ ul {
             @media only screen and (max-width: 414px) and (min-width: 300px) {
 
             
-            margin: 2px auto;
-            width: 100%;
-            max-height: 350px;
+            margin-right: auto;
+            margin-left: auto;
 
+            width: 80%;
+            max-height: 450px;
 
             }
 
@@ -134,6 +140,7 @@ ul {
 
             .title {
                 //background-color: #345742;
+                font-family: 'bebas-neue-by-fontfabric';
                 max-width: 300px;
                 font-weight: 200;
                 font-size: 24px;
