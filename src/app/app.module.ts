@@ -10,6 +10,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { ProjectComponent } from './project/project.component';
 import { AboutpageComponent } from './aboutpage/aboutpage.component';
+import { ResumepageComponent } from './resumepage/resumepage.component';
 
 const appRoutes: Routes = [
   {
