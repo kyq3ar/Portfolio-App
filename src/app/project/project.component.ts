@@ -38,6 +38,7 @@ export class ProjectComponent implements OnInit {
           this.list = this.card.body;
         }
     });
+    window.scrollTo(0,0);
   }
   getKey(key){
     return key.replace(/[0-9]/g, '');
