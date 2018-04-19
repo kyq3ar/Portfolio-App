@@ -1,24 +1,36 @@
 <header></header>
 <div class = "body">
-  <div class = "header">
-      <h2 class = "title">
-          <span [style.color]="'#'+card.highlight">Dan</span>
-          {{card.detailtitle}}
-          <br>
-          {{card.detailtitle2}}
-      </h2>
-      <p class = "description">{{card.detaildescription}}</p>
-  </div>
+  <h1 class = "header">
+    <span class="name">Dan Zhu</span><br> 
+    is an interaction and<br>
+    product designer  <span class="dark-blue">@ Capital One</span>
+  </h1>
   <div class = "sections">
-    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg">
-      <div *ngFor = "let key of section.keys" [ngClass] = "getKey(key)">
-        <br>
-        <div *ngIf="!ifSpecial(key)">{{section[key]}}</div>
-        <img *ngIf="getKey(key)=='image'" [src]="section[key]">
-        <input id = "password" [(ngModel)]="password" class="text" *ngIf="getKey(key)=='input'" placeholder={{section[key]}}>
-        <button class = "unlockbutton" *ngIf="getKey(key)=='unlock'" (click)='checkPassword()'>Unlock</button>
-      </div>
+    <div class = "section">
+      I joined Capital One immediately after graduating from Rochester Institute of Technology. My peers know me as a full stack designer / unicorn, and I’m familiar with all aspects of the design process, but my strongest skillset lies in visual prototyping. I am a craftsman at heart, and I strive for strong execution. However, it is the process that informs my decisions.
     </div>
+    <div class = "section">
+      Find me on <a href="https://www.linkedin.com/in/danzhuu">linkedin</a>.
+    </div>
+    <br>
+    <img src="/assets/about/DaveYoon.svg" alt="David Yoon">
+    <br><br>
+    <img src="/assets/about/Thang.svg" alt="Thang">
+    <br><br>
+    <div class = "section">
+      <h1 class = "title">I'm Adventurous</h1>
+      <div class = "description">My friends told me I was being weird, but something about traveling by myself in a foreign country with an unfamiliar language intrigued me.</div><br>
+      <div class = "description">In June 2017, after a few days in Iceland, a conference in Amsterdam, and a few days in London, I split from my group and spent a week by myself in Prague hiking up castles and people watching.</div><br>
+      <div class = "description">And of course, I cheated with Google Maps.</div><br>
+    </div>
+    <br>
+    <div class = "center">
+      <h1 class = "header">
+        Thanks for dropping by
+      </h1>
+      <div class = "section"> danzhuu@gmail.com</div>
+    </div>
+    <br><br><br><br><br><br>
   </div>
 </div>
 <footer></footer>
