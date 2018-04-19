@@ -1,87 +1,75 @@
+header {
+    margin-top: -40px;
+}
 .body {
-    margin: 0 11%;
+    max-width: 1124px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    top: 190px;
     font-family: 'bebas-neue-by-fontfabric';
-}
-
-.header {
-    background-color: #181d20;
-    padding: 2% 10%;
-    color: #fff;
-    padding-top: 10%;
-    .logo {
-        width : auto;
-        height:40px;
-        margin-top: 7%;
-        margin-bottom: -10%;
-    }
-    .title {
-        font-size: 3em;
-        letter-spacing: 1.5px;
-        line-height: 51px;
-    }
-    .description {
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 300;
-        line-height: 1.44;
-        letter-spacing: normal;
-        font-size: 1em;
-    }
-}
-.section {
+    font-size: 30px;
     line-height: normal;
-    font-family: 'capitalina', sans-serif;
-    padding: 2% 10% 4%;
-    .title {
-        font-weight: bold;
-    }
-    .description {
-        font-family: Calluna;
-        line-height: 1.5px;
-    }
-    .imageTitle {
-        font-size: .7em;
-        font-weight: bold;
-        letter-spacing: normal;
-    }
-    .imageDesc {
-        font-size: .7em;
-        font-weight: normal;
-        letter-spacing: normal;
-    }
-    img {
-        width:100%;
-        height:100%;
-        object-fit: cover;
-        overflow: hidden;
-    }
-    .warning {
-        text-align: center;
-    }
-    .input {
-        text-align: center;
-        .text {
-            text-align: center;
-            font-family: 'Bebas Neue';
-            font-size: 1.25em;
-            line-height: 30px;
-            letter-spacing: 5px;
-            opacity: 0.5;
-            color: #363636;
-            border: solid 1px #979797;
-            padding: .7em;
-            width: 41.5%;
+    .header {
+        font-weight: 300;
+        letter-spacing: 1.5px;
+        .name {
+            color: #011728;
+            font-weight: 400;
+        }
+        .dark-blue {
+            color: #0d74af;
         }
     }
-    .unlock {
-        text-align: center;
-        .unlockbutton {
+
+    @media only screen and (max-width: 414px) and (min-width: 300px) {
+            margin: 100px auto 30px auto;
+            font-size: 40px;
+            line-height: 40px;   
+            padding-left: 20px; 
+    }
+    
+    .section {
+        position: relative;
+        //background-color: #345345;
+        max-width: 780px;
+        font-family: 'capitolina', serif;
+        font-style: normal;
+        font-weight: 100;
+        color: #273B49;
+        font-size: 19px;
+        line-height: 32px;
+        padding-bottom: 60px;
+
+        .title {
+            //background-color: #345754;
             font-family: 'bebas-neue-by-fontfabric';
-            font-size: 1.25em;
-            background-color: #011728;
-            padding: .9em;
-            color: #fff;
-            letter-spacing: 5px;
-            width: 45%;
+            font-weight: 300;
+            font-size: 30px;
+            letter-spacing: 2px;
+            color: #273B49;
         }
+
+        .information {
+            background-color: #fff456;
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.5px;
+            font-size: 50px;
+        }
+        .imageTitle {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+            font-size: 14px;
+            letter-spacing: normal;
+            color: #5c5c5c;
+            //background-color: #444;
+            line-height: 18px;
+        }
+    }
+    .center {
+        text-align: center;
+        font-family: 'bebas-neue-by-fontfabric', sans-serif;
+
     }
 }
