@@ -19,10 +19,10 @@
                 "title" : "Wanting to do good.", 
                 "information" : "Whenever I think about my career as a designer, I always recall this episode of The Simpsons I saw while growing up. It’s 1999 and there is widespread chaos due to Y2K. The Simpsons finds a letter about a rocket that will be sending humanity’s “best and brightest” to preserve human civilization on Mars. Lisa and Marge gets onto the ship but Homer and Bart are left behind. In a desperate attempt to flee the Earth, they board an unguarded rocketship that was actually headed towards the sun.",
                 "image" : "assets/adaptivepath/Simpsons.png",
-                "imageTitle" : "Life's a Glitch, Then You Die",
+                "imageTitle" : "Simpsons Episode: Life's a Glitch, Then You Die",
                 "imageDesc" : "Waiting on line to board the ship included several people such as Bill Gates, Jimmy Carter, Stephen Hawking, Michael Jordan and Michelle Kwan.",
-                "information2" : "While at Capital One, I was reached on a new initiative within Adaptive Path to start a new program in New York City called Design in Residence. The program was about creating access to design for our communities.",
-                "information3" : "I recalled that same episode and telling myself that this was my opportunity to do good. This was my opportunity to make it on that rocketship to Mars. I became part of the piloting team for the Design in Residence program."
+                "information2" : "I always remind myself to create impact as a designer. As designers, we actually have a lot of power at our fingertips. We can sway the user's behavior a certain way so that they create new habits. We can create access to more information, but we can also limit information. I want to make sure that the designs I make are used for good. While at Capital One, I was reached on a new initiative within Adaptive Path to start a new program in New York City called Design in Residence. The program was about creating access to design for our communities.",
+                "information3" : "I recalled that same episode and telling myself that this was my opportunity to do good. This was my opportunity to make it on that rocketship to Mars. I signed up and became part of the piloting team for the Design in Residence program."
             },
             {
                 "keys" : ["title", "information"],
@@ -510,11 +510,11 @@
         "id" : "5",
         "type" : "school",
         "bg" : "/assets/home/HealthCare.png",
-        "detailbg" : "",
+        "detailbg" : "/assets/infirmary/Cover_Health.png",
         "highlight" : "c4d1e9",
-        "fronttitle" : "Utilizing patient's health data",
-        "detailtitle" : "What if patient data",
-        "detailtitle2" : "was made readily available?",
+        "fronttitle" : "Visualizing the patient’s health data",
+        "detailtitle" : "How can patient's health data",
+        "detailtitle2" : "be used to aid medical staff?",
         "frontschooldescription" : "Undergraduate project",
         "detaildescription" : "How do we design with health care data to better aid our doctors and nurses?",
         "body" : [

@@ -3,11 +3,12 @@
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 150px;
     top: 90px;
     .header {
         background-color: #181d20;
         color: #fff;
-        min-height: 400px;
+        min-height: 370px;
         position: relative;
         background-size: 100%;
         .wrapper {
@@ -74,9 +75,9 @@
             color: #273B49;
             font-size: 19px;
             line-height: 32px;
-            padding-bottom: 60px;
+            padding-bottom: 30px;
             padding-top: 30px;
-    
+            
             .title {
                 //background-color: #345754;
                 font-family: 'bebas-neue-by-fontfabric', sans-serif;
