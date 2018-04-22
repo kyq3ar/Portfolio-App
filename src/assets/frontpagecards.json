@@ -5,13 +5,12 @@
         "logo" : "/assets/home/Adaptivepath_logo.svg",
         "bg" : "/assets/home/AdaptivePath.svg",
         "detailbg" : "/assets/adaptivepath/Cover_Adaptive.png",
-        "fronttitle" : "to empower communities.",
-        "detailtitle" : "to empower communities.",
+        "fronttitle" : "to empower communities",
+        "detailtitle" : "to empower communities",
         "highlight" : "aafcb4",
         "frontdescription" : "Creating accessibility to design by teaching design thinking.",
         "detaildescription" : "Creating accessibility to design by teaching design thinking to a non-profit organization.",
-        "category1" : "Service Design &",
-        "category2" : "Helping the Community",
+
         "body" : [
             {
 
@@ -122,15 +121,15 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
-        "fronttitle" : "Restructuring through content",
-        "fronttitle2" : "to optimize account openings",
-        "detailtitle" : "Restructuring through content",
-        "detailtitle2" : "to optimize account openings.",
+        "fronttitle" : "Optimizing through content",
+        "fronttitle2" : "in account openings",
+        "detailtitle" : "Optimizing through content",
+        "detailtitle2" : "in account openings.",
         "highlight" : "4B9DCC",
-        "frontdescription" : "How analyzing content and data driven design increased conversions by 24%.",
-        "detaildescription" : "How focusing on content design increased conversions by 24%.",
-        "category1" : "Analytical Optimizations &", 
-        "category2" : "A/B Testing Features",
+        "frontdescription" : "How analyzing content and a/b testing designs increased conversions by 24%.",
+        "detaildescription" : "How analyzing content and a/b testing designs increased conversions by 24%.",
+        "category1" : "Design process", 
+        "category2" : "Password protected",
         "body" : [
             {
                 "keys" : ["title", "information", "information2", "image"],
