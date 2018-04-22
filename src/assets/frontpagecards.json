@@ -122,12 +122,12 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
-        "fronttitle" : "Optimizing",
-        "fronttitle2" : "for account openings",
-        "detailtitle" : "Paving the road for ",
-        "detailtitle2" : "Account Openings.",
+        "fronttitle" : "Restructuring through content",
+        "fronttitle2" : "to optimize account openings",
+        "detailtitle" : "Restructuring through content",
+        "detailtitle2" : "to optimize account openings.",
         "highlight" : "4B9DCC",
-        "frontdescription" : "How focusing on content design increased conversions by 24%.",
+        "frontdescription" : "How analyzing content and data driven design increased conversions by 24%.",
         "detaildescription" : "How focusing on content design increased conversions by 24%.",
         "category1" : "Analytical Optimizations &", 
         "category2" : "A/B Testing Features",
@@ -135,16 +135,16 @@
             {
                 "keys" : ["title", "information", "information2", "image"],
                 "title" : "Product Designer at Capital One",
-                "information" : "As a product designer at Capital One Bank, I led the designs for the account opening experience. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application. The design decisions I make are critical to the growth of the bank.",
+                "information" : "As a product designer at Capital One Bank, I led the designs for the account opening experience. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application. The design decisions I make are critical, as it is the first experience a user sees after deciding they want to be a customer.",
                 "information2" : "I worked alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and recently – Android.",
                 "image" : "/assets/pavingpaths/Scope.svg"
             },
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
-                "title" : "Challege » Designing for a Bank",
-                "information" : "The account opening process touches millions of customers and act as a door to Capital One. Any changes to the entrance can be risky and affect various lanes across the organization.",
-                "information2" : "How do you design and represent the ideal customer experience, while capturing sensitive information, preventing fraudsters, abiding to legal, compliance, and navigating around a secured and complex tech infrastructure?" 
+                "title" : "Challege of Designing for a Bank",
+                "information" : "People trust banks with their financial assets. Financial institutions are heavily regulated to protect customer’s information and financial assets. Because each design decisions create such huge impacts, we have to ensure that every design we pass along are legally compliant, as well as maintaining high standards of security. For this reason, collaboration is key.",
+                "information2" : "How do you design and represent the ideal customer experience, capture sensitive information, preventing fraudsters, abiding to legal, compliance, while navigating around a secured and complex tech infrastructure?" 
             
             },
          
@@ -160,7 +160,7 @@
                 "keys" : ["title", "information", "image","imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2", "information2", "information3", "image3", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
                 "title" : "Identifying the Problems",
-                "information" : "There was a lot of constraints that prevented any ideal solution. Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. How do I create something frictionless for the customer when I’m constraint by the tech architecture?",
+                "information" : "Designing an ideal solution is easy. Designing a solution around a set of constraints was what made it a challenge. Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. How do I create something frictionless for the customer when I’m constraint by the tech architecture?",
                 "image" : "/assets/pavingpaths/SignIn.png",
                 "imageTitle" : "Sign In Page, www.capitalone.com/sign-in, May 2017",
                 "imageDesc" : "Our design team have always been aware of this sign on experience, and have since taken this down. But as you can see, we had a different sign in / sign up experience across the various products Capital One supports.",
@@ -177,8 +177,8 @@
             {
                 "keys" : ["title", "information", "image", "information2", "information3", "image2", "imageTitle", "imageDesc", "image3", "imageTitle2", "imageDesc2", "image4", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
-                "title" : "Relationships Through Coffee",
-                "information" : "Building relationships with my stakeholders was a lot easier after sitting down to get to know them over a cup of coffee. My design would create a lot of impact across many lanes, so it was natural that there would be resistance to my designs. In order for me to gain support, I needed to talk to all the people that my designs would impact.",
+                "title" : "Relationship building with the team",
+                "information" : "Building relationships with my stakeholders was a lot easier after sitting down to get to know them over a cup of coffee. My designs would almost always impact other stakeholders. In order for me to gain the support I need, not only did I require data to back up my decisions, I needed to get coffee and build relationships. I needed to my partners to trust my designs.",
                 "image" : "/assets/pavingpaths/Relationships.svg",
 
                 "information2" : "By talking to engineering, I learned that our info hierarchy was constraint by the locations of various security APIs. Any changes would be a lengthly and costly process, and if I wanted to do any changes, I would have to make them incrementally.",
@@ -196,20 +196,17 @@
 
             }, 
             {
-                "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2"],
+                "keys" : ["title", "information", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
                 "title" : "Building with Design Guidelines",
                 "information" : "The account opening application had a different visual language than the marketing and the post-account opening experience. There was a need to update the account opening experience to keep a consistent experience across all features. Our next goal was to update the visual design language.",
                 "image" : "/assets/pavingpaths/StyleGuide.png",
                 "imageTitle" : "Consistency in Design",
-                "imageDesc" : "We wanted to ensure that all the design requirements were up to date. However, the code infrastructure was unchanged and all designs created needed to be within the realm of the tech architecture.",                
-                "image2" : "/assets/pavingpaths/Userlabs.png",
-                "imageTitle2" : "Userlabs Testing",
-                "imageDesc2" : "We saw a lot of positive feedback in userlabs when we updated the UX of the content, along with some changes in the information hierarchy."
+                "imageDesc" : "We wanted to ensure that all the design requirements were up to date. However, the code infrastructure was unchanged and all designs created needed to be within the realm of the tech architecture."
                 
             },
             {
-                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc2", "image2", "imageTitle2", "imageDesc2"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2", "image3", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
                 "title" : "Content First Design",
                 "information" : "We understand content is king. In order to figure out the right things to say at the right time, we worked with data analysts to figure out the exact scroll position in which a prospective customer would drop off. What exactly did customers avoided answering, and why?",
@@ -224,25 +221,46 @@
 
                 "image3" : "/assets/pavingpaths/v2Design.png",
                 "imageTitle3" : "Restructuring the Way Information was Presented",
-                "imageDesc3" : "The previous application asked for sensitive information upfront, such as the Social Security number. By pushing the Social Security number further into the application, we played with the idea that can ease our customers in by asking less sensitive information first."
+                "imageDesc3" : "The previous application asked for sensitive information upfront, such as the Social Security number. By pushing the Social Security number further into the application, we played with the idea that we can ease our customers in by asking less sensitive information first."
+                
                 
             },
 
 
             {
-                "keys" : ["image", "title", "information", "information2", "image2"],
+                "keys" : ["title", "information", "information2", "image", "image2", "image3", "imageTitle", "imageDesc"],
                 "locked" : "true",
-                "image" : "/assets/pavingpaths/Testing.svg",
+
+                "title" : "Userlabs & A/B Testing",
+
+
+                "information" : "In order to learn about our customers and to validate our design decisions, I worked with the user research team to gain insights on my designs. We brought potential customers into our user labs and in a controlled environment, we asked people to go through the experience.",
+                "information2" : "The lab test provided great insights, but as the day went on, I grew more and more suspicious of our feedback. There was generally good feedback, but I questioned the validity of the information as customers were not inputting real data. We tested on an invision prototype and having users sitting in a room with cameras pointing at them from every direction just felt too unnatural. Creating a linear path with an Invision prototype also left a lot to be desired.",
+                
+
+                "image" : "/assets/pavingpaths/Invision.png",
+                "image2" : "/assets/pavingpaths/Mural.png",
+                "image3" : "/assets/pavingpaths/Userlabs.png",
+                "imageTitle" : "Userlabs Testing",
+                "imageDesc" : "We saw a lot of positive feedback in userlabs when we updated the UX of the content, along with some changes in the information hierarchy."
+            },
+
+            {
+                "keys" : ["title", "image", "information", "information2", "image2"],
+                "locked" : "true",
+                
                 "title" : "A/B Testing Designs",
-                "information" : "My decision to bring a design language to the application was not unchallenged. There were concerns (and very legitimate ones) of the success of design language, along with the technology challenges that we were already facing.",
-                "information2" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. Using a new A/B testing platform built by the engineering team, we ran two tests against the current design within live traffic.",
+                "image" : "/assets/pavingpaths/Testing.svg",
+
+                "information" : "I was not the only person in the room that felt skeptism to the way we were doing userlabs. Understanding that those in userlabs may only be saying what we wanted to hear, we wanted to see what customers would do when we’re not watching. We got a bit of qualitative information, but we wanted to match it with real numbers. We wanted to put the design through an A/B test using a live environment with real traffic.",
+                "information2" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. With this, we introduced A/B testing capabilities to our team.",
                 "image2" : "/assets/pavingpaths/ABTest.svg"                
             },
 
             {
                 "keys" : ["title", "information", "image", "information2"],
                 "locked" : "true",
-                "title" : "Results",
+                "title" : "First A/B Test Results",
                 "information" : "We incrementally boosted testing traffic for our A/B test each day as we saw successes. By the end of our test, we had learned that updating content hierarchy created more impact than a pure reskin alone. By the final day, the initial test saw a 24% increase in conversions with 99% confidence in statistical significance.",
                 "image" : "/assets/pavingpaths/DollarValue.svg",
                 "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources."
@@ -266,14 +284,26 @@
                 "imageDesc3" : "As we gained insights on responsive web, I would apply them to our Android experience as well. Partnering with various development teams and designers, I currently also lead the Android account opening efforts."
                 
             },
+
+
+            {
+                "keys" : ["title", "information", "information2"],
+                "locked" : "true",
+                
+                "title" : "Building a Modular Design System",
+                "information" : "I’m always working with my team to optimize the account opening experience. While maintaining the current experience, I work in parallel to do more exploratory work. Recently I proposed an idea to overhaul our design completely and build a more modular design. I’m also talking to tech leads as well to redesign the infrastructure so that we are no longer constraint by API calls.",
+                "information2" : "Everything from our userlabs to A/B testing all proved that content restructure greatly impacts our account opening experience. In order to shift information around, a modular design and tech infrustructure is needed."
+                           
+            },
+
             
             {
-                "keys" : ["title", "information", "information2", "information3"],
+                "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
                 "title" : "Epilogue:",
-                "information" : "By March 2018, account opening had already created impacts across the organization. At one point, we had to withhold the full launch of our experience as our system was not ready to handle the increase in traffic.",
-                "information2" : "Through building close relationships with product and engineering, I was given more flexibility to provide a voice for the customer experience. I continue to provide design assets to many small, but impactful A/B tests across the application. I now work with various designers across different aspects of the application.",
-                "information3" : "All the insights we are gaining from A/B testing while simutaneously running userlabs to ask ‘why’ are driving a brand new redesign of account opening that is currently in development."
+                "information" : "Account opening is my first project that was part of the core business at Capital One. The journey started from a simple task of re-skinning what appeared to be a simple form to a complex journey worth millions of dollars. ",
+                "information2" : "Through building close relationships with stakeholders, I was given the flexibility to provide a voice for our customers. Account opening started out as a team of one designer (who was fresh out of college) to a full team of various design disciplines ranging from product designs to content strategy. I’ve expanded my reach since I began the work on account opening, and my designs now impact 14 development teams across responsive web, Android, and iOS."
+                
             }
         ]
 
@@ -299,9 +329,11 @@
         "category2" : "Fraud in Product Design",
         "body" : [
             {
-                "keys" : ["title", "information", "image"],
+                "keys" : ["title", "information", "information2", "image"],
                 "title" : "Designing for a Bank",
-                "information" : "Designing for a bank at first glance sounds dry and unsexy. We complain a lot about banking just like we complain about the DMV and the airport, however, there isn’t much done to change it. Banking is riped for innovation and I got an offer for a chance to change it. My role as a designer for Capital One comes with a unique challenge in that we’re designing something that is extremely sensitive, and have a lot of emotional connections that we can all relate to – money.",
+                "information" : "Designing for a bank at first glance sounds dry and unsexy. As designers for a bank, we often get confused looks when we tell people where we work. We like to complain about banking just like how we complain about the DMV and the airport. However, not a lot of us are willing to step up to do anything about it.",
+
+                "information2": "If people are unsatisfied with the system we have in place, it means that banking is riped for change. Banking needs innovation. I wanted something changed and I was offered the opportunity to do so. My role as a designer for Capital One comes with this unique challenge in that we’re designing something that is extremely sensitive, and have a lot of emotional connections that we can all relate to – money.",
                 "image" : "/assets/relationships/Peets.png"
                 
             },
