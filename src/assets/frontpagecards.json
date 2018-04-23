@@ -152,7 +152,8 @@
                 "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
                 "warning2" : "https://www.linkedin.com/in/danzhuu/",
                 "input" : "enter password",
-                "unlock" : "unlock"
+                "unlock" : "unlock",
+                "name" : "protected"
                 
             },
             {
@@ -294,8 +295,6 @@
                 "information2" : "Everything from our userlabs to A/B testing all proved that content restructure greatly impacts our account opening experience. In order to shift information around, a modular design and tech infrustructure is needed."
                            
             },
-
-            
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
@@ -305,13 +304,7 @@
                 
             }
         ]
-
-
-
     },
-
-
-
     {
         "id" : "3",
         "type" : "work",
@@ -344,18 +337,15 @@
                 "information2" : "Most importantly, there is the need to design to ensure the security of our customer’s financials, that we are being transparent with the fine print, and lastly, making sure that those who want to cause harm such as fraudsters and being blocked out."
             
             },
-            
-
             {
                 "keys" : ["warning", "warning2", "input", "unlock"],
                 "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
                 "warning2" : "https://www.linkedin.com/in/danzhuu/",
                 "input" : "enter password",
-                "unlock" : "unlock"
+                "unlock" : "unlock",
+                "name" : "protected"
                 
             },
-
-
             {
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
@@ -417,7 +407,6 @@
                 "imageDesc2" : "In order to eliminate the need for a branch associate to do any sort of paperwork, we simplified the flow and removed the previous ID verification process so that a customer can upload the ID on their own."
                 
             },
-            
             {
                 "keys" : ["title", "information", "information2"],
                 "locked" : "true",
@@ -500,8 +489,6 @@
                 "information" : "People turn to Pinterest, or Instagram, or various small blogs to look for tools and daily carrys on platforms that were not built around to serve that purpose. This application allows it’s users to show off what they have, along with finding new items, and purchasing the item."
                 
             },
-
-
             {
                 "keys" : ["title", "information", "image", "image2", "image3", "image4"],
                 "title" : "Ideation",
@@ -510,9 +497,7 @@
                 "image2" : "/assets/ruksak/Annotations.png",
                 "image3" : "/assets/ruksak/Flowchart.png",
                 "image4" : "/assets/ruksak/Wireframes.png"
-            },
-
-            
+            },            
             {
                 "keys" : ["title", "information", "image", "image2"],
                 "title" : "Visual Language",
@@ -598,10 +583,8 @@
                 "title" : "Epilogue (2018)", 
                 "bg" : "f5f5f5",
                 "information" : "Although I didn’t realize it at the time, this project taught me the true value of design. Good designs aren’t just beautiful and easy to use interfaces (as I thought it was during my early years of college). Good designs are solutions to problems, and when solutions are well executed, they create beauty.",
-                "information2" : "  I learned to study how doctors and patients interacted with one another while waiting at the emergency room. Today I’m studying how customers interact with bankers at Capital One branches and Cafes to improve the digital account opening experience. Both experiences are proving that the full experience isn’t always just online, and that digital experiences should be created to enhance the physical experience."
+                "information2" : "I learned to study how doctors and patients interacted with one another while waiting at the emergency room. Today I’m studying how customers interact with bankers at Capital One branches and Cafes to improve the digital account opening experience. Both experiences are proving that the full experience isn’t always just online, and that digital experiences should be created to enhance the physical experience."
             }
-
-            
         ]
         
     }
