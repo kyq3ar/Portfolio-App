@@ -1,5 +1,6 @@
 header {
     margin-top: -30px;
+
 }
 
 
@@ -14,6 +15,14 @@ header {
     font-family: 'bebas-neue-by-fontfabric';
     font-size: 30px;
     line-height: normal;
+
+    @media only screen and (max-width: 414px) and (min-width: 320px) {
+        
+        width: 350px;
+        font-size: 18px;
+        }
+
+
     .header {
         font-weight: 300;
         letter-spacing: 1.5px;
@@ -24,6 +33,8 @@ header {
         .dark-blue {
             color: #0d74af;
         }
+
+
     }
 
 
@@ -45,9 +56,7 @@ header {
 
     @media only screen and (max-width: 414px) and (min-width: 300px) {
             margin: 100px auto 30px auto;
-            font-size: 40px;
-            line-height: 40px;   
-            padding-left: 20px; 
+            
     }
     
     .section {
@@ -67,18 +76,12 @@ header {
             color: #0d74af;
             text-decoration: none;
         }
-
-        /* visited link */
         a:visited {
             color: #0d74af;
         }
-
-        /* mouse over link */
         a:hover {
             color: #0d74af;
         }
-
-        /* selected link */
         a:active {
             color: #0d74af;
         }
