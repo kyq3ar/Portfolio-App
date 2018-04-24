@@ -20,13 +20,13 @@
                 "image" : "assets/adaptivepath/Simpsons.png",
                 "imageTitle" : "Simpsons Episode: Life's a Glitch, Then You Die",
                 "imageDesc" : "Waiting on line to board the ship included several people such as Bill Gates, Jimmy Carter, Stephen Hawking, Michael Jordan and Michelle Kwan.",
-                "information2" : "I always remind myself to create impact as a designer. As designers, we actually have a lot of power at our fingertips. We can sway the user's behavior a certain way so that they create new habits. We can create access to more information, but we can also limit information. I want to make sure that the designs I make are used for good. While at Capital One, I was reached on a new initiative within Adaptive Path to start a new program in New York City called Design in Residence. The program was about creating access to design for our communities.",
+                "information2" : "I always remind myself to create impact as a designer. As designers, we actually have a lot of power at our fingertips. We can sway the user's behavior a certain way so that they create new habits. We can create access to more information, but we can also limit information. I want to make sure that the designs I make are used for good. While at Capital One, I was reached out for a new initiative within Adaptive Path to start a new program in New York City called Design in Residence. The program was about creating access to design for our communities.",
                 "information3" : "I recalled that same episode and telling myself that this was my opportunity to do good. This was my opportunity to make it on that rocketship to Mars. I signed up and became part of the piloting team for the Design in Residence program."
             },
             {
                 "keys" : ["title", "information"],
                 "title" : "Design should not be a luxury",
-                "information" : "After years of fighting, design finally got a seat at the table. However, design is still a luxury and not everyone has access to design. Design is expensive. Adaptive Path’s Design in Residency hope to make design thinking more accessible to our communities.",
+                "information" : "After years of fighting, design finally got a seat at the table. However, design is still a luxury and not everyone has access to it. Design is expensive. Adaptive Path’s Design in Residency hope to make design thinking more accessible to our communities.",
                 "bg": "f5f5f5"
             }, 
 
@@ -34,7 +34,7 @@
                 "keys" : ["image", "title", "information", "image2"],
                 "image" : "assets/adaptivepath/Cities.svg",
                 "title" : "The Design in Residence Team",
-                "information" : "The team consisted of various designers, a project manager, and a design manager based in both New York and San Fancisco. My role was initially as a visual designer, but it eventually evolved into that of a service designer as we defined the problem and assessed the client’s need.",
+                "information" : "The team consisted of various designers, a project manager, and a design process manager based in both New York and San Fancisco. My role was initially as a visual designer, but it eventually evolved into that of a service designer as we defined the problem and assessed the client’s need.",
                 "image2" : "assets/adaptivepath/Time.svg"
             }, 
 
@@ -86,7 +86,7 @@
                 "title" : "Service Blueprinting and Teaching Design",
                 "information" : "With only 40 hours, we couldn’t give our client the solution they had expected. However, we would be able to host a design jam and teach our client how to use design methodologies. Although we couldn’t give them a finished product, we still wanted to provide some sort of tangible product. I worked alongside another design to hash out a 36 x 100 inch service blueprint that they can place onto the wall. This way they can get a full visual of their process.",
                 "information2" : "Rather than using our time to hand over an unfinished product, we to put together a design jam to allow our client to get first hand experience.",
-                "image" : "assets/adaptivepath/blueprint.png"
+                "image" : "assets/adaptivepath/Blueprint.png"
             }, 
             {
                 "keys" : ["title", "information", "information2", "image", "image2", "imageTitle", "imageDesc"],
@@ -102,7 +102,7 @@
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "title" : "Conclusion",
                 "information" : "The design jam allowed our client’s team to learn to resolve problems through not only design thinking methodologies, but also open communication as well. Each individual were able to openly express their pain points while they worked together to discuss potential solutions. They brought back what they learned and showed us they had hung the service blueprint in their office.",
-                "image" : "/assets/adaptivepath/blueprintprintout.png",
+                "image" : "/assets/adaptivepath/BlueprintPrintout.png",
                 "imageDesc" : "We learned they had placed the service blueprint on their wall and it has encouraged their team to openly discuss pain points as they work together to solve their intake process."
             },
             {
