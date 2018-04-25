@@ -262,7 +262,7 @@
                 "locked" : "true",
                 "title" : "First A/B Test Results",
                 "information" : "We incrementally boosted testing traffic for our A/B test each day as we saw successes. By the end of our test, we had learned that updating content hierarchy created more impact than a pure reskin alone. By the final day, the initial test saw a 24% increase in conversions with 99% confidence in statistical significance.",
-                "image" : "/assets/pavingpaths/DollarValue.svg",
+                "image" : "/assets/pavingpaths/DollarValue.png",
                 "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources."
                 
             },
