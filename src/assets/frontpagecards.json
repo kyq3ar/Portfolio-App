@@ -121,13 +121,13 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
-        "fronttitle" : "Optimizing through content",
-        "fronttitle2" : "in account openings",
-        "detailtitle" : "Optimizing through content",
-        "detailtitle2" : "in account openings.",
+        "fronttitle" : "",
+        "fronttitle2" : "for optimization and growth",
+        "detailtitle" : "",
+        "detailtitle2" : "For optimization and growth",
         "highlight" : "4B9DCC",
-        "frontdescription" : "How analyzing content and a/b testing designs increased conversions by 24%.",
-        "detaildescription" : "How analyzing content and a/b testing designs increased conversions by 24%.",
+        "frontdescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
+        "detaildescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
         "category1" : "Design Process", 
         "category2" : "Password Protected",
         "body" : [
@@ -177,7 +177,7 @@
             {
                 "keys" : ["title", "information", "image", "information2", "information3", "image2", "imageTitle", "imageDesc", "image3", "imageTitle2", "imageDesc2", "image4", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
-                "title" : "Relationship building with the team",
+                "title" : "Design is never a solo job",
                 "information" : "Building relationships with my stakeholders was a lot easier after sitting down to get to know them over a cup of coffee. My designs would almost always impact other stakeholders. In order for me to gain the support I need, not only did I require data to back up my decisions, I needed to get coffee and build relationships. I needed to my partners to trust my designs.",
                 "image" : "/assets/pavingpaths/Relationships.svg",
 
@@ -311,12 +311,13 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/CoffeeShop.png",
         "detailbg" : "/assets/relationships/Cover_Relationships.png",
-        "fronttitle" : "Building relationships",
-        "fronttitle2" : "through",
-        "detailtitle" : "to Build Relationships ",
+        "fronttitle" : "",
+        "fronttitle2" : "account opening to build relationships",
+        "detailtitle" : "Account Opening",
+        "detailtitle2" : "to build relationships",
         "highlight" : "fce9aa",
-        "frontdescription" : "Designing with customer relationships in mind while ensuring security.",
-        "detaildescription" : "How we designed account opening so associates can focus on building branch relationships.",
+        "frontdescription" : "By rethinking identity verification in account opening, we are redefining tradition roles.",
+        "detaildescription" : "By rethinking identity verification in account opening, we are redefining tradition roles.",
         "category1" : "Design Process", 
         "category2" : "Password Protected",
         "body" : [
@@ -333,8 +334,8 @@
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
                 "title" : "Challenges of Designing for a Bank",
-                "information" : "Designing for a bank comes with it’s obvious challenges. There are legal and compliance implications placed on everything from the words displayed to customers to the style of the radio buttons.",
-                "information2" : "Most importantly, there is the need to design to ensure the security of our customer’s financials, that we are being transparent with the fine print, and lastly, making sure that those who want to cause harm such as fraudsters and being blocked out."
+                "information" : "Opening a bank account for many of us is usually associated with a significant step in our lives. We open checking accounts for our first job, joint accounts when we get married, savings accounts for our children, and so on. I work to design account opening so that the process is smooth, transparent, and incredibly human, but also ensuring strong confidence of security in our product.",
+                "information2" : "The best account opening experience is none at all. While working towards this goal, we’ve identified one of the biggest pain points in the account opening experience – identity verification. How can we design account openings to make it as simple as possible, but at the same time, prevent fraudsters without pushing anybody away?"
             
             },
             {
@@ -350,23 +351,38 @@
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
                 "title" : "Identifying Pain Points",
-                "information" : "One of the course of actions I took while designing for account openings was looking at the entire experience. I look beyond the digital experience – at what customers were thinking and feeling from the time they decide to make the decision to open an account until the final success screen.",
+                "information" : "One of the course of actions I took while designing for account openings was looking at the entire experience. I looked beyond the digital experience – at what customers were thinking and feeling from the time they decide to make the decision to open an account until the final success screen.",
                 "information2" : "To do so, I mapped out the customer’s journey in a giant service blueprint:",
                 "image" : "/assets/relationships/Blueprints.png",
                 "imageTitle" : "Full Account Opening Service Blueprint",
                 "imageDesc" : "Working together with partners from other aspects of the customer journey, I mapped out all customer and associate facing actions along with key data points so we can visually see where to improve (blurred for security reasons)."
                 
             },
+
+
+            {
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
+                "locked" : "true",
+                "title" : "Know Your Customers",
+                "information" : "Opening an account online relies primarily on Social Security and date of birth to check identification, and identity verification often requires a manual approval process. This adds a ton of risks as it opens doors to fraudsters online, while preventing a large amount of prospective customers to open a bank account within the United States (not everyone has a Social Security number).",
+                "information2" : "Digital Government ID verification is painful. You have a series of emails, document uploads, and trips to the physical bank.",
+                "image" : "/assets/relationships/SimpleBank.png",
+                "imageTitle" : "Competitive Analysis: Simple Bank",
+                "imageDesc" : "Simple Bank uses a heavily content-driven design to make the account opening experience easy. Just like other banks, they appear to also look for Social Security and date of birth."
+                
+            },
+
+
             {
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "information3", "information4"],
                 "locked" : "true",
                 "title" : "Constraints",
-                "information" : "Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. This created a lengthly backlog of problems that needed to be addressed. There is efforts to modernize our infrastructure, but we still wanted to design to maintain a high NPS (Net Promoter Score) and strong customer satisfaction in the existing platform. ",
+                "information" : "Account openings has a lot of moving parts that are all interconnected with a lot of legacy code and APIs. This created a lengthly backlog of problems that needed to be addressed. There is efforts to modernize our infrastructure, but we still wanted to design to maintain a high NPS (Net Promoter Score) and strong customer satisfaction in the existing platform.",
                 "information2" : "How do we create innovative designs while working within the technology constraints? What are some minimal viable products that we can create, without sacrificing the lovable pieces of the product?",
                 "image" : "/assets/relationships/LegalConsent.png",
                 "imageTitle" : "Making Banking Human",
                 "imageDesc" : "Legal jargon is one of the most difficult aspects of designing for banking. However, I worked closely with our content strategist and our legal and compliance team to ensure we can get as close as possible to everyday language.",
-                "information3" : "Part of the challenges we faced was making all content legal, while being transparent to our customers. Nobody wants to read fine print. By providing mobile phone number consent, we can contact you if there is fraud on your account. However, customers have become suspicious (and rightfully so) due to marketing spam from online platforms.",
+                "information3" : "Part of the challenges we faced was making all content legal, while being transparent to our customers. Nobody wants to read fine print. In one pain point scenario, we ask customers to give us permission to contact them. By providing mobile phone number consent, we can contact you if there is fraud on your account. However, customers have become suspicious (and rightfully so) due to marketing spam from online platforms.",
                 "information4" : "This creates a challenge when we’re designing to ensure transparency. As a financial institution, we also cannot suggest any legal advice. Defaulting an option or letting customers know why this benefit is good would potentially count as legal advice."
             }, 
             {
@@ -420,25 +436,20 @@
                 "keys" : ["title", "information", "information2", "image"],
                 "locked" : "true",
                 "title" : "Empowering Relationship Building",
-                "information" : "In order to further empower the branch associates to build relationships with our customers, we took the need of them filling out applications completely. Rather than have branch associates fill out paperwork, we wanted to eliminate the menial tasks and be there for our customers instead.",
-                "information2" : "Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank. Having a real human at a branch can make customers feel more secure about their money. We don’t want the paperwork to get in the way of that, even if it’s digital paperwork.",
+                "information" : "In order to further empower the branch associates to build relationships with our customers, we removed the need of them filling out applications completely. Rather than have branch associates fill out paperwork, we wanted to eliminate the menial tasks and be there for our customers instead. Branch associates would be there if a customer needs them.",
+                "information2" : "Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank. Having a real human at a branch can make customers feel more secure about their money. We don’t want the paperwork to get in the way of that.",
                 
                 "image" : "/assets/relationships/AndroidTx.png"
 
             },
 
-            {
-                "keys" : ["title", "information"],
-                "locked" : "true",
-                "title" : "No more Digital paperwork",
-                "information" : "My team is currently working on an experience that removes the associate from the account opening equation altogether. We want to redefine the role and have associates be there for financial advice. A new flow that allows a customer to easily open up a new account at a physical location will be coming soon."
-            },
+          
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
                 "title" : "Thoughts",
-                "information" : "In this case study, I only used one pain point as an example of a way where if we want to redefine banking. The solution cuts back on the amount of full time employees required, and took call-centers out of the process, but it also redefine and bring new challenges old roles. ",
-                "information2" : "We are often plagued by design debt and sometimes, by looking at the overall flow, we can find areas where small design changes can greatly improve the experience. As a product designer, I’m always looking for ways to optimize the flow for a better customer experience, while maintaining business needs and working within engineering constraints."
+                "information" : "Government ID verification is one of the significant pain points in account opening. The solution cuts back on the amount of full time employees required, and took call-centers out of the process, but it also redefine and bring new challenges to old roles.",
+                "information2" : "Building a customer relationship is not just about going into a bank so that a banker can open up a bank account for you. The associate should be able to advise you on the type of product that fit your needs, as well as helping you ensure the reason you are at the bank in the first place is as painless as possible. "
                 
             }
         ]
