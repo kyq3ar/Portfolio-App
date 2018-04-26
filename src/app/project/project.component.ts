@@ -46,7 +46,7 @@ export class ProjectComponent implements OnInit {
 
   ifSpecial(key) {
     let newKey = this.getKey(key);
-    if(newKey=='image' || newKey=='input' || newKey=='unlock')
+    if(newKey=='image' || newKey=='input' || newKey=='unlock' || newKey=='link')
       return true;
     else
       return false;
@@ -62,12 +62,10 @@ export class ProjectComponent implements OnInit {
   }
   
   passwordSectionShown() {
-    console.log(!this.isUnlocked);
     return !this.isUnlocked;
   }
 
   checkPassword(){
-    console.log(this.password);
     if(this.password == "Magikarp"){
       this.isUnlocked = true;
     }
