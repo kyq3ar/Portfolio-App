@@ -1,6 +1,3 @@
-
-
-
 <header><style>
   @import url("https://use.typekit.net/tiv2ytf.css");
 </style>
@@ -41,6 +38,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <br>
           <div *ngIf="!ifSpecial(key)">{{section[key]}}</div>
           <img *ngIf="getKey(key)=='image'" [src]="section[key]">
+          <a *ngIf="getKey(key)=='link'" href="https://www.linkedin.com/in/danzhuu" target="_blank">https://www.linkedin.com/in/danzhuu</a>
           <input id = "password" [(ngModel)]="password" class="text" *ngIf="getKey(key)=='input'" placeholder={{section[key]}} (keyup.enter)="checkPassword()">
           <button class = "unlockbutton" *ngIf="getKey(key)=='unlock'" (click)='checkPassword()'>Unlock</button>
         </div>
