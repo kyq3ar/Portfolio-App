@@ -11,9 +11,7 @@
         min-height: 370px;
         position: relative;
         background-size: 100%;
-
-
-
+      
         .wrapper {
             width: 100%;
             position: absolute;
@@ -124,6 +122,9 @@
                 overflow: hidden;
             }
             .warning {
+                text-align: center;
+            }
+            .link {
                 text-align: center;
             }
             .input {
