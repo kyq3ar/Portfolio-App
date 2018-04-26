@@ -339,9 +339,9 @@
             
             },
             {
-                "keys" : ["warning", "warning2", "input", "unlock"],
+                "keys" : ["warning", "link", "input", "unlock"],
                 "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
-                "warning2" : "https://www.linkedin.com/in/danzhuu/",
+                "link" : "https://www.linkedin.com/in/danzhuu/",
                 "input" : "enter password",
                 "unlock" : "unlock",
                 "name" : "protected"
