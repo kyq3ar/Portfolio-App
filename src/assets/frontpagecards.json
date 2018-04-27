@@ -265,6 +265,7 @@
 
             {
                 "keys" : ["image"],
+                "locked" : "true",
                 "image" : "/assets/pavingpaths/DollarValue.png"               
             },
 
