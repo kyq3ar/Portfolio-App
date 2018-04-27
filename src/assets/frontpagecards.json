@@ -121,43 +121,66 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
-        "fronttitle" : "",
-        "fronttitle2" : "for optimization and growth",
-        "detailtitle" : "",
-        "detailtitle2" : "For optimization and growth",
-        "highlight" : "4B9DCC",
+        "fronttitle" : "Optimizing",
+        "fronttitle2" : "for growth",
+        "detailtitle" : "Optimizing",
+        "detailtitle2" : "for growth in account opening",
+        "highlight" : "B7E5FF",
         "frontdescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
         "detaildescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
         "category1" : "Design Process", 
         "category2" : "Password Protected",
         "body" : [
             {
-                "keys" : ["title", "information", "information2", "image"],
+                "keys" : ["title", "information", "information2"],
                 "title" : "Product Designer at Capital One",
-                "information" : "As a product designer at Capital One Bank, I led the designs for the account opening experience. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application. The design decisions I make are critical, as it is the first experience a user sees after deciding they want to be a customer.",
-                "information2" : "I worked alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and recently – Android.",
-                "image" : "/assets/pavingpaths/Scope.svg"
+                "information" : "As a product designer at Capital One Bank, I led the designs for the account opening experience. My role consisted of exploring conceptual ideas as well as providing iterative updates to the existing application. Account opening is the first experiences a user sees after deciding they want to be a customer, and act as a door to Capital One.",
+                "information2" : "I worked alongside various PMs, engineering teams, data analysts, content strategists, researchers, legal/compliance teams, and other designers to build upon the account opening experience across responsive web and recently – Android."               
             },
+
+            {
+                "keys" : ["warning", "link", "input", "unlock"],
+                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
+                "link" : "https://www.linkedin.com/in/danzhuu/",
+                "input" : "enter password",
+                "unlock" : "unlock",
+                "name" : "protected"
+                
+            },
+
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
+                "locked" : "true",
                 "title" : "Challege of Designing for a Bank",
                 "information" : "People trust banks with their financial assets. Financial institutions are heavily regulated to protect customer’s information and financial assets. Because each design decisions create such huge impacts, we have to ensure that every design we pass along are legally compliant, as well as maintaining high standards of security. For this reason, collaboration is key.",
                 "information2" : "How do you design and represent the ideal customer experience, capture sensitive information, preventing fraudsters, abiding to legal, compliance, while navigating around a secured and complex tech infrastructure?" 
             
             },
          
+            
+
+
             {
-                "keys" : ["warning", "warning2", "input", "unlock"],
-                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
-                "warning2" : "https://www.linkedin.com/in/danzhuu/",
-                "input" : "enter password",
-                "unlock" : "unlock",
-                "name" : "protected"
+                "keys" : ["title", "information", "image", "information2", "information3", "image2", "imageTitle", "imageDesc"],
+                "locked" : "true",
+                "title" : "Design is never a solo job",
+                "information" : "Account opening started as a project that accounted for both the application and the onboarding experience. I was the only designer when I first joined account openings in 2016, but the impact I created helped shape our team into a powerhouse team within 2 years. With a significantly larger team, my scope spread as well. The additional contributors required collaboration to become essential to creating good UX.",
+                "image" : "/assets/pavingpaths/Relationships.svg",
+
+                "information2" : "By talking to engineering, I learned that our info hierarchy was constraint by the locations of various security APIs. Any changes would be a lengthly and costly process, and if I wanted to do any changes, I would have to make them incrementally.",
+                "information3" : "Until our engineering teams could revamp and build a modular data structure, we would have to work within the constraints of the skeleton. Fortunately, our engineering team was in the process of migrating code to Angular 2, and I saw the opportunity to include design in the conversation.",
+                "image2" : "/assets/pavingpaths/Collabs.png",
+                "imageTitle" : "Communication & Collaboration",
+                "imageDesc" : "Design, product, and tech worked closely to deliver features. We worked together to kick off problems, and by documenting all my UI designs alongside copy and content, I was able to work fluidly with project managers to easily hand off design to developers."
                 
-            },
+
+
+            }, 
+
+
             {
-                "keys" : ["title", "information", "image","imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2", "information2", "information3", "image3", "imageTitle3", "imageDesc3"],
+                "keys" : ["title", "information", "image","imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2", "information2", "information3", "image3", "imageTitle3", "imageDesc3", "image4", "imageTitle4", "imageDesc4"],
                 "locked" : "true",
                 "title" : "Identifying the Problems",
                 "information" : "Designing an ideal solution is easy. Designing a solution around a set of constraints was what made it a challenge. Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. How do I create something frictionless for the customer when I’m constraint by the tech architecture?",
@@ -171,30 +194,13 @@
                 "information3" : "For the first 3 months working on account openings, I worked alongside the lead product manager and the lead developer to create a consistent design language.",
                 "image3" : "assets/pavingpaths/Control.png",
                 "imageTitle3" : "Consolidating Designs",
-                "imageDesc3" : "Through consolidating our designs, we were able to see a better overall picture of all the account opening experiences."
+                "imageDesc3" : "Through consolidating our designs, we were able to see a better overall picture of all the account opening experiences.",
+                "image4" : "assets/pavingpaths/Blueprint.png",
+                "imageTitle4" : "Service Blueprinting",
+                "imageDesc4" : "In order to fully visualize the experience, I initiated a living service blueprint through a collaboration tool called MURAL. I encouraged our partners to help me document each page a customer views, thoughts and feelings, analytics, associate and call center involvement, and the location of where each of our APIs was being called."
                               
             },
-            {
-                "keys" : ["title", "information", "image", "information2", "information3", "image2", "imageTitle", "imageDesc", "image3", "imageTitle2", "imageDesc2", "image4", "imageTitle3", "imageDesc3"],
-                "locked" : "true",
-                "title" : "Design is never a solo job",
-                "information" : "Building relationships with my stakeholders was a lot easier after sitting down to get to know them over a cup of coffee. My designs would almost always impact other stakeholders. In order for me to gain the support I need, not only did I require data to back up my decisions, I needed to get coffee and build relationships. I needed to my partners to trust my designs.",
-                "image" : "/assets/pavingpaths/Relationships.svg",
-
-                "information2" : "By talking to engineering, I learned that our info hierarchy was constraint by the locations of various security APIs. Any changes would be a lengthly and costly process, and if I wanted to do any changes, I would have to make them incrementally.",
-                "information3" : "Until our engineering teams could revamp and build a modular data structure, we would have to work within the constraints of the skeleton. Fortunately, our engineering team was in the process of migrating code to Angular 2, and I saw the opportunity to include design in the conversation.",
-                "image2" : "/assets/pavingpaths/LeanUX.png",
-                "imageTitle" : "Lean UX Jam to Bring Product, Design, and Tech Together",
-                "imageDesc" : "In conjunction with a design manager, we brought product managers, designers, and developers to get together to brainstorm challenges with short timelines.",
-                "image3" : "/assets/pavingpaths/Blueprints.png",
-                "imageTitle2" : "Service Blueprinting",
-                "imageDesc2" : "In order to fully visualize the experience, I initiated a living service blueprint through a collaboration tool called MURAL. I encouraged our partners to help me document each page a customer views, thoughts and feelings, analytics, associate and call center involvement, and the location of where each of our APIs was being called.",
-
-                "image4" : "/assets/pavingpaths/BranchPhotos.png",
-                "imageTitle3" : "Field Research",
-                "imageDesc3" : "To gain insights on our customers, I connected and visited associates across the nation. My team and I visited various branches up and down major east coast cities such as New York and Washington DC, suburban neighborhoods in Wilmington, Delaware, and west coast cities like San Francisco."
-
-            }, 
+            
             {
                 "keys" : ["title", "information", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
@@ -228,10 +234,10 @@
 
 
             {
-                "keys" : ["title", "information", "information2", "image", "image2", "image3", "imageTitle", "imageDesc"],
+                "keys" : ["title", "information", "information2", "image", "image2", "image3"],
                 "locked" : "true",
 
-                "title" : "Userlabs & A/B Testing",
+                "title" : "Userlabs Testing",
 
 
                 "information" : "In order to learn about our customers and to validate our design decisions, I worked with the user research team to gain insights on my designs. We brought potential customers into our user labs and in a controlled environment, we asked people to go through the experience.",
@@ -239,60 +245,70 @@
                 
 
                 "image" : "/assets/pavingpaths/Invision.png",
-                "image2" : "/assets/pavingpaths/Mural.png",
-                "image3" : "/assets/pavingpaths/Userlabs.png",
-                "imageTitle" : "Userlabs Testing",
-                "imageDesc" : "We saw a lot of positive feedback in userlabs when we updated the UX of the content, along with some changes in the information hierarchy."
+                "image2" : "/assets/pavingpaths/Userlabs.png",
+                "image3" : "/assets/pavingpaths/Mural.png"
+                
+                
             },
 
             {
-                "keys" : ["title", "image", "information", "information2", "image2"],
+                "keys" : ["image", "title", "information", "image2"],
                 "locked" : "true",
                 
-                "title" : "A/B Testing Designs",
+                
                 "image" : "/assets/pavingpaths/Testing.svg",
 
-                "information" : "I was not the only person in the room that felt skeptism to the way we were doing userlabs. Understanding that those in userlabs may only be saying what we wanted to hear, we wanted to see what customers would do when we’re not watching. We got a bit of qualitative information, but we wanted to match it with real numbers. We wanted to put the design through an A/B test using a live environment with real traffic.",
-                "information2" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. With this, we introduced A/B testing capabilities to our team.",
-                "image2" : "/assets/pavingpaths/ABTest.svg"                
+                "title" : "A/B Testing Designs",
+                "information" : "In collaboration with my PM and the supporting development teams, we wanted to use this opportunity to bring in analytical data that we can use to drive better decisions. With this, we introduced A/B testing capabilities to our team.",
+                "image2" : "/assets/pavingpaths/ABTest.svg"             
             },
 
             {
-                "keys" : ["title", "information", "image", "information2"],
+                "keys" : ["image"],
+                "image" : "/assets/pavingpaths/DollarValue.png"               
+            },
+
+            {
+                "keys" : ["title", "information", "information2"],
                 "locked" : "true",
-                "title" : "First A/B Test Results",
+                "title" : "Results",
                 "information" : "We incrementally boosted testing traffic for our A/B test each day as we saw successes. By the end of our test, we had learned that updating content hierarchy created more impact than a pure reskin alone. By the final day, the initial test saw a 24% increase in conversions with 99% confidence in statistical significance.",
-                "image" : "/assets/pavingpaths/DollarValue.png",
+                
                 "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources."
                 
             },
 
 
             {
-                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "image3", "imageTitle3", "imageDesc3"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
                 "title" : "More A/B Testing: Measuring Desirability",
                 "information" : "To build a truly unified experience, we wanted to explore the idea of allowing customers open multiple accounts at the same time. Learning from the successes of our past experience, we wanted to run a low risk A/B test in order to gain momentum.",
                 "information2" : "If a customer were to successfully open up a product, we would allow them to add on an additional product – similar to how candy is placed at the grocery check out.",
                 "image" : "/assets/pavingpaths/MultiProduct.png",
                 "imageTitle" : "Focus on the Content",
-                "imageDesc" : "We focused on the fact that it’s fee-free and won’t cost the customer anything to open an additional account. The interstitial would appear if a customer were qualified, and have just completed opening a new account with us.",
-
-                "image2" : "/assets/pavingpaths/MPA_Value.svg",
-                "image3" : "/assets/pavingpaths/Android.png",
-                "imageTitle3" : "Continuous Optimizations",
-                "imageDesc3" : "As we gained insights on responsive web, I would apply them to our Android experience as well. Partnering with various development teams and designers, I currently also lead the Android account opening efforts."
+                "imageDesc" : "We focused on the fact that it’s fee-free and won’t cost the customer anything to open an additional account. The interstitial would appear if a customer were qualified, and have just completed opening a new account with us."
+            },
+            
+            {
+                "keys" : ["image"],
+                "locked" : "true",
+                "image" : "/assets/pavingpaths/MPA_Value.svg"
+                
                 
             },
 
 
             {
-                "keys" : ["title", "information", "information2"],
+                "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc"],
                 "locked" : "true",
                 
                 "title" : "Building a Modular Design System",
                 "information" : "I’m always working with my team to optimize the account opening experience. While maintaining the current experience, I work in parallel to do more exploratory work. Recently I proposed an idea to overhaul our design completely and build a more modular design. I’m also talking to tech leads as well to redesign the infrastructure so that we are no longer constraint by API calls.",
-                "information2" : "Everything from our userlabs to A/B testing all proved that content restructure greatly impacts our account opening experience. In order to shift information around, a modular design and tech infrustructure is needed."
+                "information2" : "Everything from our userlabs to A/B testing all proved that content restructure greatly impacts our account opening experience. In order to shift information around, a modular design and tech infrustructure is needed.",
+                "image" : "/assets/pavingpaths/Android.png",
+                "imageTitle" : "Continuous Optimizations",
+                "imageDesc" : "As we gained insights on responsive web, I would apply them to our Android experience as well. Partnering with various development teams and designers, I currently also lead the Android account opening efforts."
                            
             },
             {
