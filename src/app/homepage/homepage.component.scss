@@ -1,7 +1,5 @@
 body {
     max-width: 950px;
-    height: 100%;
-
 
 
     @media only screen and (max-width: 414px) and (min-width: 300px) {
@@ -13,6 +11,55 @@ body {
             padding-left: 20px;
             }
     
+}
+
+.body {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'bebas-neue-by-fontfabric';
+    font-size: 30px;
+    line-height: normal;
+
+    @media only screen and (max-width: 414px) and (min-width: 320px) {
+        
+        width: 350px;
+        font-size: 18px;
+        }
+
+
+    
+    .section {
+        position: relative;
+        //background-color: #345345;
+        max-width: 780px;
+        font-family: 'capitolina', serif;
+        font-style: normal;
+        font-weight: 100;
+        color: #273B49;
+        font-size: 19px;
+        line-height: 32px;
+        padding-bottom: 60px;
+
+        /* unvisited link */
+        a:link {
+            color: #0d74af;
+            text-decoration: none;
+        }
+        a:visited {
+            color: #0d74af;
+        }
+        a:hover {
+            color: #0d74af;
+        }
+        a:active {
+            color: #0d74af;
+        }
+
+        
+        
+    }
+ 
 }
 
 
@@ -47,6 +94,7 @@ body {
             }
 
 }
+
 hr {
     margin: 20px 0px 20px 0px;
     opacity: 0.1;
@@ -89,45 +137,44 @@ ul {
     }
 
 
-    @media only screen and (max-width: 414px) and (min-width: 300px) {
-
-            
+    @media only screen and (max-width: 414px) and (min-width: 300px) {         
             padding-left: 20px; 
             }
 }
+
+
 .page {
+
     .cardlist {
-
-
-        max-width: 950px;
+        max-width: 960px;
         margin-right: auto;
         margin-left: auto;
         color: #fff;
         padding-top: 20px;
+
+        @media only screen and (max-width: 600px) and (min-width: 400px) {
+        
+            max-width: 95%;
+        }
 
         .card {
             cursor: pointer;
             float: left;
             width: 261px;            
             height: 450px;
-            margin: 0px 15px 15px 0px;
+            margin: 5px 5px;
 
             padding: 20px;
             position: relative;
-            display: block;
+            display: inline-block;
             background-size: 100%;
 
 
             @media only screen and (max-width: 414px) and (min-width: 300px) {
-
-            
-            margin-right: auto;
-            margin-left: auto;
-
-            width: 80%;
+            width: 85%;
             max-height: 450px;
-
             }
+
 
             .logo {
                 // background-color: #ff6352;
@@ -143,7 +190,7 @@ ul {
                 font-family: 'bebas-neue-by-fontfabric';
                 max-width: 300px;
                 font-weight: 200;
-                font-size: 24px;
+                font-size: 28px;
                 line-height: 28px;
                 letter-spacing: 2.1px;
             }
@@ -188,8 +235,6 @@ ul {
         opacity: 0.95;
     }
 }
-
-
 
 
 

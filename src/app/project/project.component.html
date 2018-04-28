@@ -18,21 +18,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class = "wrapper">
         <img *ngIf="card.logo" class = "logo" [src] ="card.logo"><br>
         <h2 class = "title">
-            <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Designing</span>
+            {{card.detailtitle}}
+            <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Design</span>           
+            <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
             <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
+
+
             <span *ngIf="card.id==4" [style.color]="'#'+card.highlight" >Ruksak: </span>
             <br>
+
+
             <span *ngIf="card.id==5" [style.color]="'#'+card.highlight">Infirmary: </span>
-            {{card.detailtitle}}
-            <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
-            <br>
+            
             {{card.detailtitle2}}
+            
         </h2>
         <p class = "description">{{card.detaildescription}}</p>
       </div>
   </div>
   <div class = "sections">
-    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg" >
+    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg" style="max-width: 950px; margin: auto; padding-bottom: 20px;" >
+
       <div class = "section2" *ngIf = "sectionLocked(section.locked) && !(section.name=='protected' && !passwordSectionShown())">
         <div *ngFor = "let key of section.keys" [ngClass] = "getKey(key)">
           <br>

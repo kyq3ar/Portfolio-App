@@ -6,11 +6,10 @@ header {
 
 
 .body {
-    max-width: 1124px;
+    max-width: 950px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
     top: 190px;
     font-family: 'bebas-neue-by-fontfabric';
     font-size: 30px;
@@ -40,17 +39,16 @@ header {
 
     .testimonials{
         padding: 40px 30px;
-        max-width: 850px;
+        max-width: 800px;
         margin-bottom: 60px;
 
         font-family: 'capitolina', serif;
+        color: #273B49;
         font-style: normal;
-        font-weight: 100;
+        font-weight: 300;
         font-size: 19px;
-        line-height: 27px;
+        line-height: 30px;
         
-
-
         background-color: #F5F5F5;
     }
 
@@ -62,7 +60,7 @@ header {
     .section {
         position: relative;
         //background-color: #345345;
-        max-width: 780px;
+        max-width: 650px;
         font-family: 'capitolina', serif;
         font-style: normal;
         font-weight: 100;

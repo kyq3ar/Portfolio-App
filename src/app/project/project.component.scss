@@ -5,31 +5,61 @@
     margin-right: auto;
     margin-bottom: 150px;
     top: 90px;
+
+    a:link {
+        color: #273B49;
+        text-decoration: none;
+    }
+
+a:visited {
+    color: #273B49;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0D74AF;
+}
+
+/* selected link */
+a:active {
+    color: #273B49;
+}
+
+                
+
+.logo {
+                width : 122px;
+                height: auto;
+            }
+
+
     .header {
-        background-color: #181d20;
         color: #fff;
         min-height: 370px;
         position: relative;
         background-size: 100%;
-      
+        max-width: 1124px;
+        bottom: 0;
+
+
+        
         .wrapper {
-            width: 100%;
+            
+            width: 780px;
+            margin-left: auto;
+            margin-right: auto;
             position: absolute;
             bottom: 0;
-            .logo {
-                width : 122px;
-                height: auto;
-                margin-left: 120px;
+            left: 0;
+            right: 0;
 
-                @media only screen and (max-width: 600px) and (min-width: 400px) {
-        
+            @media only screen and (max-width: 414px) and (min-width:320px) {
                     max-width: 350px;
-                    margin-left: 20px;
-                }
             }
+            
+            
             .title {
-                max-width: 780px;
-                margin-left: 120px;
+                max-width: 600px;
                 margin-top: 0;
                 margin-bottom: 0;
         
@@ -39,30 +69,22 @@
                 letter-spacing: 1.5px;
                 line-height: 51px;
         
-                @media only screen and (max-width: 414px) and (min-width: 320px) {
-        
-                    max-width: 350px;
-                    margin-left: 20px;
-                    }
+                
+                
         
 
         
             }
             .description {
                 max-width: 780px;
-                margin-left: 120px;
-                padding-bottom: 40px;
+                margin-bottom: 40px;
                 font-family: 'Open Sans', sans-serif;
                 font-weight: 100;
                 line-height: 26px;
                 letter-spacing: .2px;
                 font-size: 16px;
         
-                @media only screen and (max-width: 600px) and (min-width: 400px) {
-        
-                    max-width: 350px;
-                    margin-left: 20px;
-                }
+                
             } 
         }
     }
@@ -70,6 +92,7 @@
     
     
     .section {
+
         .section2 {
             //background-color: #345345;
             max-width: 780px;
@@ -84,6 +107,11 @@
             padding-bottom: 30px;
             padding-top: 30px;
             
+
+            @media only screen and (max-width: 414px) and (min-width:320px) {
+                    max-width: 90%;
+                }
+
             .title {
                 //background-color: #345754;
                 font-family: 'bebas-neue-by-fontfabric', sans-serif;
@@ -106,7 +134,7 @@
                 letter-spacing: normal;
                 color: #5c5c5c;
                 //background-color: #444;
-                line-height: 18px;
+                line-height: 14px;
             }
             .imageDesc {
                 font-family: 'Open Sans', sans-serif;
@@ -120,6 +148,7 @@
                 height:100%;
                 object-fit: cover;
                 overflow: hidden;
+                padding-top: 20px;
             }
             .warning {
                 text-align: center;
@@ -162,8 +191,7 @@
             }
             .unlock {
                 text-align: center;
-                margin-bottom: 100px;
-    
+
                 .unlockbutton {
                     margin: auto;
                     font-family: 'bebas-neue-by-fontfabric';

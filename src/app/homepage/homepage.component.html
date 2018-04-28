@@ -2,45 +2,47 @@
   @import url("https://use.typekit.net/tiv2ytf.css");
 </style>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118035245-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-118035245-1');
-</script>
-
-
 </head>
 
 <h1 class = "header">
-  <span class="name">Dan Zhu</span> <br> is a 
-  product designer <br> for
-  <span class="dark-blue">Capital One</span>
+  <span class="name">Dan Zhu</span> <br>is an 
+  interaction <br>and product designer
 </h1>
 
 <body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7J4H8K"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></body>
 
-<hr>
+<div class ="body">
+  <div class = "sections">
+    <div class = "section">
+      I’m a process driven product designer that can work through all phases of the product’s lifecycle. The people I design for and the people I work with are my partners in crime. Today my design decisions impacts every prospective customer that steps through <a href="https://www.capitalone.com" target="_blank">Capital One’s</a> doors.
+
+
+    </div>
+  </div>
+</div>
+
+
 <ul>
   <li><a routerLink="/about">About</a></li>
   <li><a href="/assets/Resume.pdf" target="_blank">Résumé</a></li>
   
 </ul>
+
+
 <hr>
+
 <div class = "page">
   <div class = "cardlist">
     <div class = "card" *ngFor = "let card of cards" [style.background-image]="'url('+card.bg+')'" (click)="onClick(card)">
       <img *ngIf="card.logo" class = "logo" [src] ="card.logo">
       <h2 class = "title">
-        <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Designing</span> 
         {{card.fronttitle}}
+        <span *ngIf="card.id==1" [style.color]="'#'+card.highlight">Design</span> 
         <span *ngIf="card.id==2" [style.color]="'#'+card.highlight">Design</span>
-       
+        
         <span *ngIf="card.id==3" [style.color]="'#'+card.highlight">Designing</span>
+        <span *ngIf="card.id==4" [style.color]="'#'+card.highlight">RuckSak:</span>
         {{card.fronttitle2}}
       </h2>
       <p *ngIf="card.frontdescription" class = "description">{{card.frontdescription}}</p>
@@ -49,6 +51,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 </div>
+
+<br><br>
+
 <footer></footer> 
 
 
