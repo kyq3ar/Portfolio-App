@@ -128,20 +128,29 @@ a:active {
                 font-size: 50px;
             }
             .imageTitle {
-                font-family: 'Open Sans', sans-serif;
+                max-width: 600px;
+                margin-right: auto;
+                margin-left: auto;
+                font-family: 'capitolina', sans-serif;
                 font-weight: 400;
-                font-size: 14px;
+                font-size: 20px;
                 letter-spacing: normal;
-                color: #5c5c5c;
+                color: #273B49;
                 //background-color: #444;
                 line-height: 14px;
             }
             .imageDesc {
-                font-family: 'Open Sans', sans-serif;
-                font-size: 14px;
-                color: #5c5c5c;
+                max-width: 600px;
+                margin-right: auto;
+                margin-left: auto;
+                padding-bottom: 20px;
+                font-family: 'capitolina', sans-serif;
+                font-size: 18px;
+                line-height: 26px;
+                color: #363636;
+                font-weight: 300;
                 letter-spacing: normal;
-                line-height: normal;
+                
             }
             img {
                 width:100%;
