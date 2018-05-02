@@ -32,33 +32,12 @@
                 
             
             },
-            {
-                "keys" : ["warning", "link", "input", "unlock"],
-                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
-                "link" : "https://www.linkedin.com/in/danzhuu/",
-                "input" : "enter password",
-                "unlock" : "unlock",
-                "name" : "protected"
-                
-            },
 
-            {
-                "keys" : ["information", "image", "image2", "imageDesc", "image3", "imageDesc2"],
-                "locked" : "true",
-                
-                "information" : "By talking to engineering, I learned that our info hierarchy was constraint by the locations of various security APIs. Any changes would be a lengthly and costly process, and if I wanted to do any changes, I would have to make them incrementally as the team worked to revamp the structure.",
-
-                "image" : "/assets/pavingpaths/Collabs.png",
-                "image2" : "/assets/pavingpaths/Documentation.png",
-                "imageDesc" : "Good documentation was key to our success. Everything from meeting agendas, content matrixes, design decisions and conversion results were kept transparent within our massive team.",
-                "image3" : "/assets/pavingpaths/Zeplin.png",
-                "imageDesc2" : "Over communication greatly improved the execution of my designs. My designs was supported by 4 dev teams, so a smooth design handoff process was critical to maintaining consistency. Zeplin and Invision was the tool of choice."
-                
-            },
+            
 
             {
                 "keys" : ["title", "information", "image", "imageDesc", "image2", "imageDesc2", "information2", "image3", "imageDesc3", "image4", "imageDesc4", "image5", "imageDesc5"],
-                "locked" : "true",
+                
                 "title" : "Identifying the Problems",
                 "information" : "Designing an ideal solution is easy. Designing a solution around a set of constraints was what made it a challenge. Account openings had a lot of moving parts that were all interconnected with a lot of legacy code. How do I create something frictionless for the customer when I’m constraint by the tech architecture?",
 
@@ -81,6 +60,33 @@
                 "imageDesc5" : "The designs needed to be modernized with our most recent style guide. We wanted to provide a consistent Capital One experience regardless of where they are in the application. Rather than fighting against it, I worked to contribute to it."
                 
             },
+
+                        {
+                "keys" : ["warning", "link", "input", "unlock"],
+                "warning" : "This page represents my personal views and processes. Due to the sensitivity around the content of this project, please contact me if you are interested in viewing this case study.",
+                "link" : "https://www.linkedin.com/in/danzhuu/",
+                "input" : "enter password",
+                "unlock" : "unlock",
+                "name" : "protected"
+                
+            },
+
+            {
+                "keys" : ["title", "information", "image", "image2", "imageDesc", "image3", "imageDesc2"],
+                "locked" : "true",
+
+                "title" : "Documentation & Collaboration",
+
+                "information" : "By talking to engineering, I learned that our info hierarchy was constraint by the locations of various security APIs. Any changes would be a lengthly and costly process, and if I wanted to do any changes, I would have to make them incrementally as the team worked to revamp the structure.",
+
+                "image" : "/assets/pavingpaths/Collabs.png",
+                "image2" : "/assets/pavingpaths/Documentation.png",
+                "imageDesc" : "Good documentation was key to our success. Previous documentations were lost, so I began documenting all my work. Everything from meeting agendas, content matrixes, design decisions and conversion results were kept transparent to get the ball moving.",
+                "image3" : "/assets/pavingpaths/Zeplin.png",
+                "imageDesc2" : "Over communication greatly improved the execution of my designs. My designs was supported by 4 dev teams, so a smooth design handoff process was critical to maintaining consistency. Zeplin and Invision was the tool of choice."
+                
+            },
+
             {
                 "keys" : ["title", "information", "information2", "image", "imageTitle", "imageDesc", "image2", "imageTitle2", "imageDesc2", "image3", "imageTitle3", "imageDesc3"],
                 "locked" : "true",
@@ -94,7 +100,7 @@
                 "imageDesc2" : "We kicked it off using a more conversable dialogue to introduce our application. We needed to build for minimal viable product and this first screen was designed to be a test.",
 
                 "image3" : "/assets/pavingpaths/v2Design.png",
-                "imageDesc3" : "TPeacemealing the content would be a bigger project and we needed to gain insights first. We started by re-ordering the input fields from least sensitive to most sensitive. We organized the content and we made it a bit more consumable."
+                "imageDesc3" : "Peacemealing the content would be a bigger project and we needed to gain insights first. We started by re-ordering the input fields from least sensitive to most sensitive. We organized the content and we made it a bit more consumable."
                 
                 
             },
@@ -129,13 +135,14 @@
             },
 
             {
-                "keys" : ["title", "information", "information2", "image"],
+                "keys" : ["title", "information", "information2", "image", "imageDesc"],
                 "locked" : "true",
                 "title" : "Results",
                 "information" : "We incrementally boosted testing traffic for our A/B test each day as we saw successes. By the end of our test, we had learned that updating content hierarchy created more impact than a pure reskin alone. By the final day, the initial test saw a 24% increase in conversions with 99% confidence in statistical significance.",
                 
                 "information2" : "This was an important key win for us because it proved that there was a problem with our flow. It proved to our stakeholders that the account opening experienced could be much further improved, along with creating a massive dollar value. This gave us visibility and more resources.",
-                "image" : "/assets/pavingpaths/Testing.svg"
+                "image" : "/assets/pavingpaths/Testing.svg",
+                "imageDesc" : "Both methods of testing were used in parallel to each other. Userlab testing would follow up on some of the A/B tests to determine why users reacted the way they did."
                 
             },
 
@@ -299,12 +306,12 @@
         "bg" : "/assets/home/CoffeeShop.png",
         "detailbg" : "/assets/relationships/Cover_Relationships.png",
         "fronttitle" : "",
-        "fronttitle2" : "to build relationships",
+        "fronttitle2" : "to build trust & relationships",
         "detailtitle" : "",
-        "detailtitle2" : " to build relationships",
+        "detailtitle2" : " to build trust & relationships",
         "highlight" : "B7E5FF",
-        "frontdescription" : "By rethinking identity verification in account opening, we are redefining tradition roles.",
-        "detaildescription" : "By rethinking identity verification in account opening, we are redefining tradition roles.",
+        "frontdescription" : "How identity verification in account opening can build trust through smarter UI and conversations.",
+        "detaildescription" : "How identity verification in account opening can build trust through smarter UI and conversations.",
         "category1" : "Design Process", 
         "category2" : "Password Protected",
         "body" : [
@@ -358,18 +365,20 @@
 
 
             {
-                "keys" : ["title", "information", "image", "imageDesc", "information3", "image2", "imageDesc2"],
+                "keys" : ["title", "information", "image", "imageDesc", "information2", "image2", "imageDesc2", "image3", "imageDesc3"],
                 "locked" : "true",
                 "title" : "Designing UX for Trust",
-                "information" : "Majority of our customers don’t understand the legal jargon that most banks spit out. The average customer do not understand what ‘backup withholding’ means, nor what a fiduciary account entails. In order to create a better experience, we want customers to be able to understand what they are reading. ",
-                "information2" : "I partner very closely with our UX content strategist to work with the legal and compliance team to ensure that humanity is brought to our designs – and ultimately bringing humanity to banking. ",
+                "information" : "Majority of our customers don’t understand the legal jargon that most banks spit out. The average customer do not understand what ‘backup withholding’ means, nor what a fiduciary account entails. In order to create a better experience, we want customers to be able to understand what they are reading. ",                
                 
                 "image" : "/assets/relationships/LegalConsent.png",
-                "imageDesc" : "“If number(s) provided above is(are) mobile phone number(s), it is (they are) my mobile phone number(s), by clicking on the button below, I consent to receive autodialed and prerecorded/artificial calls, including texts, relating to my relationship with Capital One (which may include handling, servicing, and billing for any of my accounts). Message and Data rates may apply. You can stop these types of messages by replying STOP in response to a text message, or by following any other instructions contained in the time-sensitive call.”",
+                "imageDesc" : "Mobile phone number consent contains extremely confusing legal content. I’ve been working closely with our content strategist and legal and compliance team to figure out a more ‘natural’ language.",
 
-                "information3" : "The legal and compliance team work with us to create improved language in our designs, but until we can get finalized versions, we often have to work with what exist. This is by far, one of the biggest challenge in working on account opening.",
-                "image2" : "/assets/relationships/Competitors.png",
-                "imageDesc2" : "Transparent dialogues helped customers feel at ease with products. Case studies of online applications from various industries have shown that breaking down the content into consumable pieces increased the conversion rates."
+                "information2" : "The legal and compliance team work with us to create improved language in our designs, but until we can get finalized versions, we often have to work with what exist. This is by far, one of the biggest challenge in working on account opening.",
+                "image2" : "/assets/relationships/Employment.png",
+                "imageDesc2" : "We found that customers appreciated it when we were direct and transparent about why we were asking certain questions. Even by stating it was government regulation, customers were more inclined to proceed in the application.",
+
+                "image3" : "/assets/relationships/Competitors.png",
+                "imageDesc3" : "Transparent dialogues helped customers feel at ease with products. Case studies of online applications from various industries have shown that breaking down the content into consumable pieces increased the conversion rates."
             }, 
 
             {
@@ -391,10 +400,33 @@
                 "imageDesc" : "This design allowed branch associates to verify the person with them rather than dealing with the call centers."
                 
             },
+            
+
+
+            {
+                "keys" : ["title", "information", "image", "image2", "imageDesc", "image3"],
+                "locked" : "true",
+                "title" : "Iterative Process",
+                "information" : "The verification flow is an iterative process. By allowing a customer to upload their ID online, we enable account opening online to be a smoother process. The designs have been improved on incrementally from minimal viable product to more ideal solutions. We’ll continue to improve on the experience as I work with engineering to improve our technology as well. ",
+                "image" : "/assets/relationships/GovID.png",
+
+                "image2" : "/assets/relationships/Verification.png",
+                "imageDesc" : "We wanted to quickly replace the placeholder experience we had launched for our associates. This new flow allows a customer to upload their ID using their own device.",
+                "image3" : "/assets/relationships/CostCut.svg"
+            },
+
+            {
+                "keys" : ["title", "information", "information2"],
+                "locked" : "true",
+                "title" : "Empowering Relationship Building",
+                "information" : "In order to further empower the branch associates to build relationships with our customers, we removed the need of them filling out applications completely. Rather than have branch associates fill out paperwork, we wanted to eliminate the menial tasks and be there for our customers instead. Branch associates would be there if a customer needs them.",
+                "information2" : "Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank. Having a real human at a branch can make customers feel more secure about their money. We don’t want the paperwork to get in the way of that."
+                
+            },
             {
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "locked" : "true",
-                "title" : "Smarter Conversations",
+                "title" : "Designing Smarter Conversations",
                 "information" : "By bringing in humanity into a conversationally driven UI, we hoped to bring joy and delight to the account opening experience. We worked with legal and compliance to emphasize transparency, and we made sure we were asking the right questions at the right time. ",
 
                 "image" : "/assets/relationships/Pokemon.png",
@@ -402,37 +434,23 @@
 
             },
 
-
             {
-                "keys" : ["title", "information", "image", "image2", "imageDesc"],
+                "keys" : ["title", "information", "image", "imageDesc"],
                 "locked" : "true",
-                "title" : "Iterative Process",
-                "information" : "The verification flow is an iterative process. By allowing a customer to upload their ID online, we enable account opening online to be a smoother process. The designs have been improved on incrementally from minimal viable product to more ideal solutions. We’ll continue to improve on the experience as I work with engineering to improve our technology as well. ",
-                "image" : "/assets/relationships/GovID.png",
+                "title" : "No more personas. Hello social intelligence.",
+                "information" : "When we create personas, we design with a set audience in mind. However, by using data, we can cater the conversation to a prospective customer based on the data of our existing products. College students may appreciate a humourous and blunt tone, but they are likely not customers with money to be depositing $10,000 for Money Market accounts (high deposit, high interest rate accounts). Meanwhile, a customer depositing half a million dollars may not appreciate a sarcastic and blunt conversation.",
 
-                "image2" : "/assets/relationships/Verification.png",
-                "imageDesc" : "We wanted to quickly replace the placeholder experience we had launched for our associates. This new flow allows a customer to upload their ID using their own device."
-            },
-
-            {
-                "keys" : ["title", "information", "information2", "image"],
-                "locked" : "true",
-                "title" : "Empowering Relationship Building",
-                "information" : "In order to further empower the branch associates to build relationships with our customers, we removed the need of them filling out applications completely. Rather than have branch associates fill out paperwork, we wanted to eliminate the menial tasks and be there for our customers instead. Branch associates would be there if a customer needs them.",
-                "information2" : "Changing the roles of the branch associates to those who build relationships with customers will be one step further in changing the way we bank. Having a real human at a branch can make customers feel more secure about their money. We don’t want the paperwork to get in the way of that.",
-                "image" : "/assets/relationships/CostCut.svg"
-                
-                
+                "image" : "/assets/relationships/Modular.png",
+                "imageDesc" : "We are currently working on a modularized design system that is driven by a conversational UI. There are opportunities for us to utilize smart bots and create individualized experiences for the various types of people banking with Capital One."
 
             },
-
           
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
                 "title" : "Thoughts",
-                "information" : "Government ID verification is one of the significant pain points in account opening. The solution cuts back on the amount of full time employees required, and took call-centers out of the process, but it also redefine and bring new challenges to old roles.",
-                "information2" : "Building a customer relationship is not just about going into a bank so that a banker can open up a bank account for you. The associate should be able to advise you on the type of product that fit your needs, as well as helping you ensure the reason you are at the bank in the first place is as painless as possible. "
+                "information" : "Identitiy verification is one of the significant pain points in account opening. A self-service verification flow provides us two major victories. It frees up the branch associate’s time so that instead of filling out an application for you behind a monitor, they can spend more time having a conversation with the person in front.",
+                "information2" : "A conversation UI experience allow us to treat customers like real people. Through transparency in legal jargon, we can build trust in our relationship with the customers as well. By pausing to rethink how we talk to our customers, we can change the way people think about their banks for the better."
                 
             }
         ]
@@ -447,7 +465,7 @@
         "fronttitle2" : "Tag and share your stuff",
         "detailtitle2" : "Tag and share your stuff",
         "frontschooldescription" : "Undergraduate project",
-        "detaildescription" : "An app that lets you quickly upload, tag, and share your stuff effortlessly.",
+        "detaildescription" : "Undergraduate Project: Fall 2014.",
         "body" : [
             {
                 "keys" : ["title", "information", "information2"],
@@ -457,11 +475,11 @@
             },
 
             {
-                "keys" : ["title", "information", "image", "image2"],
+                "keys" : ["title", "information", "image"],
                 "title" : "Project Brief",
+
                 "information" : "Share and be inspired. There's already a ton of blogs out there to list out everything people carry with them on a daily basis, but there isn't a very quick way of doing it. RukSak lets users quickly snap pictures of items, tag them, post, and share.",
-                "image" : "/assets/ruksak/Scope.svg",
-                "image2" : "/assets/ruksak/Visuals.png"
+                "image" : "/assets/ruksak/Visuals.png"
             },
             {
                 "keys" : ["title", "information", "image"],
@@ -522,11 +540,11 @@
         "bg" : "/assets/home/HealthCare.png",
         "detailbg" : "/assets/infirmary/Cover_Health.png",
         "highlight" : "c4d1e9",
-        "fronttitle" : "Visualizing the patient’s health data",
-        "detailtitle" : "How can patient's health data",
-        "detailtitle2" : "be used to aid medical staff?",
+        "fronttitle" : "Utilizing patient data to improve efficiency",
+        "detailtitle" : "",
+        "detailtitle2" : "Utilizing patient data to improve efficiency",
         "frontschooldescription" : "Undergraduate project",
-        "detaildescription" : "How do we design with health care data to better aid our doctors and nurses?",
+        "detaildescription" : "Undergraduate Project: Spring 2015",
         "body" : [
             {
                 "keys" : ["title", "information", "information2"],
@@ -535,11 +553,10 @@
                 "information2" : "The health industry needs a lot of modernization. I was frustrated by the long waits at hospitals and how dreadfully slow the entire process was. This project is about how data would be utilized to increase efficiency in health care."
             },
             {
-                "keys" : ["title", "information", "image", "image2"],
+                "keys" : ["title", "information", "image"],
                 "title" : "Brief",
                 "information" : "Infirmary is a concept app in which electronic health records exist. How can we create an app that would utilize data to better serve doctors and patients?",
-                "image" : "/assets/infirmary/Scope.png",
-                "image2" : "/assets/infirmary/Visuals.png"
+                "image" : "/assets/infirmary/Visuals.png"
             },
             {
                 "keys" : ["title", "information", "information2", "information3"],
@@ -549,11 +566,10 @@
                 "information3" : "Patients are prioritized based on the severity of the problem. There are generally limited amount of doctors, but that doesn’t negate the pain that each of the patient in the emergency room are suffering from."
             },
             {
-                "keys" : ["title", "information", "image", "imageTitle", "imageDesc", "image2", "image3", "imageDesc2"],
+                "keys" : ["title", "information", "image", "imageDesc", "image2", "image3", "imageDesc2"],
                 "title" : "Documenting Issues & Ideation",
                 "information" : "While waiting at the emergency room with my grandmother, I often documented the problems that I would face, while brainstorming potential solutions. I noticed the doctors would always check the vitals first, and more than often, the doctor would be asking for a brief of the patient’s information from one of the nurses.",
                 "image" : "/assets/infirmary/Sketch.png",
-                "imageTitle" : "Ideation: How can we use big data to aid doctors and patients?",
                 "imageDesc" : "Allowing instant real-time patient vitals was one of the data points I focused on. This would allow doctors to always be able to access their patient’s vitals in order to keep track of their health.",
                 "image2" : "/assets/infirmary/Wireframes.png",
                 "image3" : "/assets/infirmary/Moodboard.png",
@@ -571,7 +587,7 @@
             },
             {
                 "keys" : ["title", "information", "information2"],
-                "title" : "Epilogue (2018)", 
+                "title" : "Epilogue", 
                 "bg" : "f5f5f5",
                 "information" : "Although I didn’t realize it at the time, this project taught me the true value of design. Good designs aren’t just beautiful and easy to use interfaces (as I thought it was during my early years of college). Good designs are solutions to problems, and when solutions are well executed, they create beauty.",
                 "information2" : "I learned to study how doctors and patients interacted with one another while waiting at the emergency room. Today I’m studying how customers interact with bankers at Capital One branches and Cafes to improve the digital account opening experience. Both experiences are proving that the full experience isn’t always just online, and that digital experiences should be created to enhance the physical experience."

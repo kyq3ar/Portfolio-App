@@ -11,6 +11,7 @@ body {
             padding-left: 20px;
             }
     
+
 }
 
 .body {
@@ -26,6 +27,13 @@ body {
         width: 350px;
         font-size: 18px;
         }
+
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+        max-width: 650px;
+
+    }
+    
 
 
     
@@ -91,7 +99,13 @@ body {
             font-size: 40px;
             line-height: 40px;   
             padding-left: 20px; 
-            }
+    }
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+        max-width: 650px;
+        margin-top: 150px;
+
+    }
 
 }
 
@@ -140,6 +154,12 @@ ul {
     @media only screen and (max-width: 414px) and (min-width: 300px) {         
             padding-left: 20px; 
             }
+
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+        max-width: 650px;
+
+    }
 }
 
 
@@ -155,6 +175,12 @@ ul {
         @media only screen and (max-width: 600px) and (min-width: 400px) {
         
             max-width: 95%;
+        }
+
+        @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+        max-width: 650px;
+
         }
 
         .card {
@@ -174,6 +200,8 @@ ul {
             width: 85%;
             max-height: 450px;
             }
+
+
 
 
             .logo {

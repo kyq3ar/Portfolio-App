@@ -40,6 +40,7 @@ a:active {
         background-size: 100%;
         max-width: 1124px;
         bottom: 0;
+        
 
 
         
@@ -53,8 +54,14 @@ a:active {
             left: 0;
             right: 0;
 
+
             @media only screen and (max-width: 414px) and (min-width:320px) {
                     max-width: 350px;
+            }
+            @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+                 max-width: 650px;
+
             }
             
             
@@ -110,7 +117,16 @@ a:active {
 
             @media only screen and (max-width: 414px) and (min-width:320px) {
                     max-width: 90%;
+                    padding-bottom: 10px;
+                    padding-top: 10px;
+
                 }
+
+            @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+
+                    max-width: 650px;
+
+            }
 
             .title {
                 //background-color: #345754;

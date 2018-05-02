@@ -66,7 +66,7 @@ export class ProjectComponent implements OnInit {
   }
 
   checkPassword(){
-    if(this.password == "Magikarp"){
+    if(this.password == "Design for good."){
       this.isUnlocked = true;
     }
     this.password = "";
