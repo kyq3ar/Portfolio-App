@@ -33,10 +33,6 @@ body {
         max-width: 650px;
 
     }
-    
-
-
-    
     .section {
         position: relative;
         //background-color: #345345;
@@ -62,15 +58,10 @@ body {
         }
         a:active {
             color: #0d74af;
-        }
-
-        
-        
+        } 
     }
  
 }
-
-
 .header {
     max-width: 950px;
     margin: 200px auto 30px auto;
@@ -101,12 +92,9 @@ body {
             padding-left: 20px; 
     }
     @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
-
         max-width: 650px;
         margin-top: 150px;
-
     }
-
 }
 
 hr {
@@ -130,9 +118,7 @@ ul {
     li {
         float: left;
         padding-left: 0;
-        padding-right: 60px;
-
-        
+        padding-right: 60px;   
     }
     li a {
         display: block;
@@ -153,7 +139,7 @@ ul {
 
     @media only screen and (max-width: 414px) and (min-width: 300px) {         
             padding-left: 20px; 
-            }
+    }
 
     @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
 
@@ -197,13 +183,10 @@ ul {
 
 
             @media only screen and (max-width: 414px) and (min-width: 300px) {
-            width: 85%;
-            max-height: 450px;
+              width: 85%;
+              max-height: 450px;
             }
-
-
-
-
+          
             .logo {
                 // background-color: #ff6352;
                 
@@ -263,6 +246,8 @@ ul {
         opacity: 0.95;
     }
 }
-
-
-
+.space {
+    clear: both;
+    bottom: 0px;
+    height: 50px;
+}
