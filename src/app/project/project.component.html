@@ -37,7 +37,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
   </div>
   <div class = "sections">
-    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg" style="max-width: 950px; margin: auto; padding-bottom: 20px;" >
+    <div class = "section" *ngFor = "let section of list; let i = index" [style.background-color]="'#'+section.bg" style="max-width: 900px;  margin: auto; 
+        padding-bottom: 20px; 
+      " >
 
       <div class = "section2" *ngIf = "sectionLocked(section.locked) && !(section.name=='protected' && !passwordSectionShown())">
         <div *ngFor = "let key of section.keys" [ngClass] = "getKey(key)">

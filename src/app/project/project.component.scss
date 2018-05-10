@@ -1,5 +1,5 @@
 .body {
-    max-width: 1124px;
+    max-width: 1200px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -35,18 +35,19 @@ a:active {
 
     .header {
         color: #fff;
-        min-height: 370px;
+        min-height: 380px;
         position: relative;
         background-size: 100%;
-        max-width: 1124px;
+        max-width: 1440px;
         bottom: 0;
+        margin-bottom: 30px;
         
 
 
         
         .wrapper {
             
-            width: 780px;
+            width: 800px;
             margin-left: auto;
             margin-right: auto;
             position: absolute;
@@ -100,9 +101,12 @@ a:active {
     
     .section {
 
+
+
         .section2 {
             //background-color: #345345;
             max-width: 780px;
+            min-height: 200px;
             margin: 0 auto;
             
             font-family: 'capitolina', serif;
@@ -113,6 +117,7 @@ a:active {
             line-height: 32px;
             padding-bottom: 30px;
             padding-top: 30px;
+
             
 
             @media only screen and (max-width: 414px) and (min-width:320px) {
@@ -142,6 +147,8 @@ a:active {
                 font-family: 'Open Sans', sans-serif;
                 line-height: 1.5px;
                 font-size: 50px;
+
+
             }
             .imageTitle {
                 max-width: 600px;
@@ -166,6 +173,14 @@ a:active {
                 color: #363636;
                 font-weight: 300;
                 letter-spacing: normal;
+
+                @media only screen and (max-width: 414px) and (min-width:320px) {
+                    max-width: 90%;
+
+                    font-size: 16px;
+                    color: #687680;
+
+                }
                 
             }
             img {

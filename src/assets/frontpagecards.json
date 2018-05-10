@@ -438,7 +438,7 @@
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "locked" : "true",
                 "title" : "No more personas. Hello social intelligence.",
-                "information" : "When we create personas, we design with a set audience in mind. However, by using data, we can cater the conversation to a prospective customer based on the data of our existing products. College students may appreciate a humourous and blunt tone, but they are likely not customers with money to be depositing $10,000 for Money Market accounts (high deposit, high interest rate accounts). Meanwhile, a customer depositing half a million dollars may not appreciate a sarcastic and blunt conversation.",
+                "information" : "When we create personas, we design with a set audience in mind. However, by using data, we can cater the conversation to a prospective customer based on the data of our existing products. College students may appreciate a humourous and blunt tone, but they are likely not customers with money to be depositing $10,000 for Money Market accounts (high deposit, high interest rate accounts). Meanwhile, a customer depositing half a million dollars may not appreciate a sarcastic and blunt conversation. By tailoring the language based on data, we can build a conversation that feels very personal and real.",
 
                 "image" : "/assets/relationships/Modular.png",
                 "imageDesc" : "We are currently working on a modularized design system that is driven by a conversational UI. There are opportunities for us to utilize smart bots and create individualized experiences for the various types of people banking with Capital One."
@@ -465,7 +465,7 @@
         "fronttitle2" : "Tag and share your stuff",
         "detailtitle2" : "Tag and share your stuff",
         "frontschooldescription" : "Undergraduate project",
-        "detaildescription" : "Undergraduate Project: Fall 2014.",
+        "detaildescription" : "Student Project: Fall 2014.",
         "body" : [
             {
                 "keys" : ["title", "information", "information2"],
@@ -488,12 +488,6 @@
                 "image" : "/assets/ruksak/Personas.png"
             },
 
-            {
-                "keys" : ["title", "information", "image"],
-                "title" : "Exploring a Need",
-                "information" : "Ruksak was built with the ease of use in mind. Being able to quickly upload an image, and tapping an item to tag what it is would make way for an easy learning curve. Users can add additional information regarding the item, including where to buy.",
-                "image" : "/assets/ruksak/Sketches.png"
-            },
 
             {
                 "keys" : ["title", "information"],
@@ -544,7 +538,7 @@
         "detailtitle" : "",
         "detailtitle2" : "Utilizing patient data to improve efficiency",
         "frontschooldescription" : "Undergraduate project",
-        "detaildescription" : "Undergraduate Project: Spring 2015",
+        "detaildescription" : "Student Project: Spring 2015",
         "body" : [
             {
                 "keys" : ["title", "information", "information2"],
