@@ -6,9 +6,9 @@
         "bg" : "/assets/home/AccountOpening.png",
         "detailbg" : "/assets/pavingpaths/Cover_Roads.png",
         "fronttitle" : "Optimizing",
-        "fronttitle2" : "for growth",
+        "fronttitle2" : "for growth & expansion",
         "detailtitle" : "Optimizing",
-        "detailtitle2" : "for growth.",
+        "detailtitle2" : "for growth and expansion.",
         "highlight" : "FFF29B",
         "frontdescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
         "detaildescription" : "By analyzing content hierarchy in a form, account openings conversion rates increased 24%.",
@@ -305,30 +305,31 @@
         "logo" : "/assets/home/C1_Logo.svg",
         "bg" : "/assets/home/CoffeeShop.png",
         "detailbg" : "/assets/relationships/Cover_Relationships.png",
-        "fronttitle" : "",
-        "fronttitle2" : "to build trust & relationships",
-        "detailtitle" : "",
-        "detailtitle2" : " to build trust & relationships",
+        "fronttitle" : "Fighting",
+        "fronttitle2" : "while building trust",
+        "detailtitle" : "Fighting",
+        "detailtitle2" : "while building trust and relationships.",
         "highlight" : "B7E5FF",
-        "frontdescription" : "How identity verification in account opening can build trust through smarter UI and conversations.",
-        "detaildescription" : "How identity verification in account opening can build trust through smarter UI and conversations.",
+        "frontdescription" : "Designing an identity verification flow in account opening while building trust and relationships.",
+        "detaildescription" : "Designing an identity verification flow in account opening while building trust and relationships.",
         "category1" : "Design Process", 
         "category2" : "Password Protected",
         "body" : [
             {
-                "keys" : ["title", "information", "image", "imageDesc"],
+                "keys" : ["title", "information", "information2", "image", "imageDesc"],
                 "title" : "Designing for a Bank",
-                "information" : "Designing for a bank at first glance sounds dry and unsexy. Finance can be difficult to understand, as it’s a world that is filled with a lot of legal jardon, acronyms, and sensitivity. My role as a designer for Capital One comes with this unique challenge in that we’re designing something that is extremely sensitive, and have a lot of emotional connections that we can all relate to – money.",                
+                "information" : "In a world that is filled with legal jardon and acronyms that nobody knows what it stands for – designing for a bank could feel dry and not very sexy. My role as a designer for Capital One comes with this unique challenge in that we’re designing something that is extremely sensitive, and have a lot of emotional connections that we can all relate to – money.",
+                "information2" : "We’re constantly designing with the legal constraints that hinder an ideal experience, but these constraints are what keeps our most important assets safe.",              
                 "image" : "/assets/relationships/Peets.png",
-                "imageDesc" : "Our Union Square branch in NYC is designed to promote relationships rather than paperwork. Our bankers provide financial advice over a cup of coffee."
+                "imageDesc" : "Our Union Square branch in NYC is designed to promote relationships over paperwork. Our bankers provide face to face financial advice to customers over a cup of coffee."
                 
             },
             {
                 "keys" : ["title", "information", "information2"],
                 "bg" : "f5f5f5",
-                "title" : "Challenges of Designing for a Bank",
-                "information" : "Opening a bank account for many of us is usually associated with a significant step in our lives. We open checking accounts for our first job, joint accounts when we get married, savings accounts for our children, etc. ",
-                "information2" : "How can we design account opening to eliminate the process so that we can focus on what really matters – the relationship?"
+                "title" : "Fighting crime without a TSA experience",
+                "information" : "As a designer, we’re often required to wear many hats. When designing for a bank, we have crime fighting as a side job. The account opening process is the door to Capital One, and we have to make sure we don’t let the fraudsters in.",
+                "information2" : "How do we design to ensure the fraudsters are kept out, while not treating all our prospective customers like potential criminals?"
             
             },
             {
@@ -437,7 +438,7 @@
             {
                 "keys" : ["title", "information", "image", "imageDesc"],
                 "locked" : "true",
-                "title" : "No more personas. Hello social intelligence.",
+                "title" : "Hello social intelligence.",
                 "information" : "When we create personas, we design with a set audience in mind. However, by using data, we can cater the conversation to a prospective customer based on the data of our existing products. College students may appreciate a humourous and blunt tone, but they are likely not customers with money to be depositing $10,000 for Money Market accounts (high deposit, high interest rate accounts). Meanwhile, a customer depositing half a million dollars may not appreciate a sarcastic and blunt conversation. By tailoring the language based on data, we can build a conversation that feels very personal and real.",
 
                 "image" : "/assets/relationships/Modular.png",
